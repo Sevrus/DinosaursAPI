@@ -32,29 +32,29 @@
       "image_url": ""
     },
     {
-      "name": "",
+      "name": "Abelisaurus",
       "period": {
-        "en": "",
-        "fr": ""
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
       },
       "diet": {
-        "en": "",
-        "fr": ""
+        "en": "Carnivorous",
+        "fr": "Carnivore"
       },
       "classification": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
         "class": "Reptilia",
-        "order": "",
-        "suborder": "",
-        "family": "",
-        "genus": "",
-        "species": ""
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Abelisaurus",
+        "species": "Abelisaurus comahuensis"
       },
-      "length_m": "",
+      "length_m": 9,
       "discovered_in": {
-        "en": "",
-        "fr": ""
+        "en": "Argentina",
+        "fr": "Argentine"
       },
       "description": {
         "en": "",
@@ -63,29 +63,29 @@
       "image_url": ""
     },
     {
-      "name": "",
+      "name": "Achelousaurus",
       "period": {
-        "en": "",
-        "fr": ""
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
       },
       "diet": {
-        "en": "",
-        "fr": ""
+        "en": "Herbivorous",
+        "fr": "Herbivore"
       },
       "classification": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
         "class": "Reptilia",
-        "order": "",
-        "suborder": "",
-        "family": "",
-        "genus": "",
-        "species": ""
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Achelousaurus",
+        "species": "Achelousaurus horneri"
       },
-      "length_m": "",
+      "length_m": 6,
       "discovered_in": {
-        "en": "",
-        "fr": ""
+        "en": "USA",
+        "fr": "États-Unis"
       },
       "description": {
         "en": "",
@@ -94,29 +94,29 @@
       "image_url": ""
     },
     {
-      "name": "",
+      "name": "Achillobator",
       "period": {
-        "en": "",
-        "fr": ""
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
       },
       "diet": {
-        "en": "",
-        "fr": ""
+        "en": "Carnivorous",
+        "fr": "Carnivore"
       },
       "classification": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
         "class": "Reptilia",
-        "order": "",
-        "suborder": "",
-        "family": "",
-        "genus": "",
-        "species": ""
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Achillobator",
+        "species": "Achillobator giganticus"
       },
-      "length_m": "",
+      "length_m": 5,
       "discovered_in": {
-        "en": "",
-        "fr": ""
+        "en": "Mongolia",
+        "fr": "Mongolie"
       },
       "description": {
         "en": "",
@@ -125,29 +125,29 @@
       "image_url": ""
     },
     {
-      "name": "",
+      "name": "Acrocanthosaurus",
       "period": {
-        "en": "",
-        "fr": ""
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
       },
       "diet": {
-        "en": "",
-        "fr": ""
+        "en": "Carnivorous",
+        "fr": "Carnivore"
       },
       "classification": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
         "class": "Reptilia",
-        "order": "",
-        "suborder": "",
-        "family": "",
-        "genus": "",
-        "species": ""
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Carcharodontosauridae",
+        "genus": "Acrocanthosaurus",
+        "species": "Acrocanthosaurus atokensis"
       },
-      "length_m": "",
+      "length_m": 12,
       "discovered_in": {
-        "en": "",
-        "fr": ""
+        "en": "Canada, USA",
+        "fr": "Canada, États-Unis"
       },
       "description": {
         "en": "",
@@ -156,29 +156,29 @@
       "image_url": ""
     },
     {
-      "name": "",
+      "name": "Aegyptosaurus",
       "period": {
-        "en": "",
-        "fr": ""
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
       },
       "diet": {
-        "en": "",
-        "fr": ""
+        "en": "Herbivorous ",
+        "fr": "Herbivore"
       },
       "classification": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
         "class": "Reptilia",
-        "order": "",
-        "suborder": "",
-        "family": "",
-        "genus": "",
-        "species": ""
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauria",
+        "genus": "Aegyptosaurus",
+        "species": "Aegyptosaurus baharijensis"
       },
-      "length_m": "",
+      "length_m": 15,
       "discovered_in": {
-        "en": "",
-        "fr": ""
+        "en": "Egypt",
+        "fr": "Égypte"
       },
       "description": {
         "en": "",
@@ -187,29 +187,29 @@
       "image_url": ""
     },
     {
-      "name": "",
+      "name": "Afrovenator",
       "period": {
-        "en": "",
-        "fr": ""
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
       },
       "diet": {
-        "en": "",
-        "fr": ""
+        "en": "Carnivorous ",
+        "fr": "Carnivore"
       },
       "classification": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
         "class": "Reptilia",
-        "order": "",
-        "suborder": "",
-        "family": "",
-        "genus": "",
-        "species": ""
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Megalosauridae",
+        "genus": "Afrovenator",
+        "species": "Afrovenator abakensis"
       },
-      "length_m": "",
+      "length_m": 9,
       "discovered_in": {
-        "en": "",
-        "fr": ""
+        "en": "Niger",
+        "fr": "Niger"
       },
       "description": {
         "en": "",
@@ -218,29 +218,463 @@
       "image_url": ""
     },
     {
-      "name": "",
+      "name": "Agilisaurus",
       "period": {
-        "en": "",
-        "fr": ""
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
       },
       "diet": {
-        "en": "",
-        "fr": ""
+        "en": "Herbivorous ",
+        "fr": "Herbivore"
       },
       "classification": {
         "kingdom": "Animalia",
         "phylum": "Chordata",
         "class": "Reptilia",
-        "order": "",
-        "suborder": "",
-        "family": "",
-        "genus": "",
-        "species": ""
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Agilisaurus",
+        "species": "Agilisaurus louderbacki"
       },
-      "length_m": "",
+      "length_m": 1.5,
       "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
         "en": "",
         "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Alamosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Saltasauridae",
+        "genus": "Alamosaurus",
+        "species": "Alamosaurus sanjuanensis"
+      },
+      "length_m": 21,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Albertaceratops",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Albertaceratops",
+        "species": "Albertaceratops nesmoi"
+      },
+      "length_m": 7,
+      "discovered_in": {
+        "en": "Canada, USA",
+        "fr": "Canada, États-Unis"
+      },
+      "description": {
+        "en": "This dinosaur is known from a single, well-preserved skull from Alberta and material from a bone bed in Montana, including almost the entire skeleton, found in August 2001. It has long brow horns, unlike other members of the centrosaurine subfamily.",
+        "fr": "Ce dinosaure est connu à partir d'un seul crâne bien préservé trouvé en Alberta et de matériel provenant d'un gisement d'os dans le Montana, y compris presque l'ensemble du squelette, découvert en août 2001. Il possède de longues cornes au-dessus des yeux, contrairement aux autres membres de la sous-famille des centrosaurines."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Albertosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauridae",
+        "genus": "Albertosaurus",
+        "species": "Albertosaurus sarcophagus"
+      },
+      "length_m": 9,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "Albertosaurus was a close relative of Tyrannosaurus, but smaller and not as heavily built.",
+        "fr": "Albertosaurus était un parent proche du Tyrannosaurus, mais plus petit et moins massif."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Alectrosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous ",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "",
+        "genus": "Alectrosaurus",
+        "species": "Alectrosaurus olseni"
+      },
+      "length_m": 5,
+      "discovered_in": {
+        "en": "China, Mongolia",
+        "fr": "Chine, Mongolie"
+      },
+      "description": {
+        "en": "Alectrosaurus was a theropod dinosaur from the Late Cretaceous of Mongolia. It is known from incomplete remains, and its exact classification is still debated.",
+        "fr": "L'Alectrosaurus était un dinosaure théropode du Crétacé Supérieur de Mongolie. Il est connu à partir de restes incomplets, et sa classification exacte est encore débattue."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Alioramus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauridae",
+        "genus": "Alioramus",
+        "species": "Alioramus remotus, Alioramus altai"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "Mongolia",
+        "fr": "Mongolie"
+      },
+      "description": {
+        "en": "Alioramus remotus and Alioramus altai are the two main described species. Alioramus was a carnivorous predator that lived during the Late Cretaceous in Asia, particularly Mongolia.",
+        "fr": "Alioramus remotus et Alioramus altai sont les deux espèces principales décrites. Alioramus était un prédateur carnivore qui vivait pendant le Crétacé supérieur en Asie, notamment en Mongolie."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Allosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Allosauridae",
+        "genus": "Allosaurus",
+        "species": "A. fragilis, A. europaeus"
+      },
+      "length_m": 12,
+      "discovered_in": {
+        "en": "Portugal, USA",
+        "fr": "Portugal, États-Unis"
+      },
+      "description": {
+        "en": "Allosaurus was a large carnivorous dinosaur that lived during the Late Jurassic period. The species **A. fragilis** is the type species, while **A. europaeus** is recognized but less commonly distinguished.",
+        "fr": "L'Allosaurus était un grand dinosaure carnivore qui vivait pendant le Jurassique Supérieur. L'espèce **A. fragilis** est l'espèce type, tandis que **A. europaeus** est reconnue mais moins fréquemment distinguée."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Alvarezsaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Alvarezsauridae",
+        "genus": "Alvarezsaurus",
+        "species": "Alvarezsaurus calvoi"
+      },
+      "length_m": 2,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Amargasaurus",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Dicraeosauridae",
+        "genus": "Amargasaurus",
+        "species": "Amargasaurus cazaui"
+      },
+      "length_m": 12,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "This dinosaur had a double row of spines along its back which may have supported a twin 'sail' of skin. The spines on its neck vertebrae were incredibly long.",
+        "fr": "Ce dinosaure avait une double rangée d'épines le long de son dos qui pouvait avoir soutenu un double 'voile' de peau. Les épines sur ses vertèbres cervicales étaient incroyablement longues."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Ammosaurus",
+      "period": {
+        "en": "Early Jurassic",
+        "fr": "Jurassique inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Anchisauridae",
+        "genus": "Ammosaurus",
+        "species": "Ammosaurus major"
+      },
+      "length_m": 5,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Ampelosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous ",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauridae",
+        "genus": "Ampelosaurus",
+        "species": "Ampelosaurus atacis"
+      },
+      "length_m": 15,
+      "discovered_in": {
+        "en": "France",
+        "fr": "France"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Amygdalodon",
+      "period": {
+        "en": "Mid Jurassic",
+        "fr": "Jurassique moyen"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Cetiosauridae",
+        "genus": "Amygdalodon",
+        "species": "Amygdalodon patagonicus"
+      },
+      "length_m": 15,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Anchiceratops",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Anchiceratops",
+        "species": "Anchiceratops ornatus"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Anchisaurus",
+      "period": {
+        "en": "Early Jurassic",
+        "fr": "Jurassique inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Anchisauridae",
+        "genus": "Anchisaurus",
+        "species": "Anchisaurus polyzelus"
+      },
+      "length_m": 2,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Ankylosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Ankylosauridae",
+        "genus": "Ankylosaurus",
+        "species": "Ankylosaurus magniventris"
+      },
+      "length_m": 8,
+      "discovered_in": {
+        "en": "Canada, USA",
+        "fr": "Canada, États-Unis"
       },
       "description": {
         "en": "",
