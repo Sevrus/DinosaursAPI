@@ -1,3 +1,31 @@
 {
-
+  "dinosaurs": [
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    }
+  ]
 }
