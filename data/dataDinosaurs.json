@@ -1,6 +1,37 @@
 {
   "dinosaurs": [
     {
+      "name": "Aardonyx",
+      "period": {
+        "en": "Early Jurassic",
+        "fr": "Jurassique inférieur"
+      },
+      "diet": {
+        "en": "Hebivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Prosauropod",
+        "genus": "Aardonyx",
+        "species": "Aardonyx celestae"
+      },
+      "length_m": 8,
+      "discovered_in": {
+        "en": "South Africa",
+        "fr": "Afrique du Sud"
+      },
+      "description": {
+        "en": "Aardonyx would have been largely bipedal (walking on two legs) but also capable of walking on all four legs. This and its way of feeding are transitional features between those of basal sauropodomorphs and the more derived sauropods (large dinosaurs that walked on all fours) that came later.",
+        "fr": "L'Aardonyx aurait été principalement bipède (marchant sur deux jambes) mais aussi capable de marcher sur quatre pattes. Ceci et son mode de nutrition sont des caractéristiques de transition entre celles des sauropodomorphes basaux et les sauropodes plus dérivés (grands dinosaures marchant sur quatre pattes) qui sont apparus plus tard."
+      },
+      "image_url": ""
+    },
+    {
       "name": "",
       "period": {
         "en": "",
@@ -22,6 +53,227 @@
       },
       "length_m": "",
       "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": "",
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
         "en": "",
         "fr": ""
       },
