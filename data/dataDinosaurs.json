@@ -683,6 +683,936 @@
       "image_url": ""
     },
     {
+      "name": "Anserimimus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Ornithomimidae",
+        "genus": "Anserimimus",
+        "species": "Anserimimus planinychus"
+      },
+      "length_m": 3.5,
+      "discovered_in": {
+        "en": "Mongolia",
+        "fr": "Mongolie"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Antarctosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauria",
+        "genus": "Antarctosaurus",
+        "species": ""
+      },
+      "length_m": 18,
+      "discovered_in": {
+        "en": "Argentina, Chile, Uruguay",
+        "fr": "Argentine, Chili, Uruguay"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Apatosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Diplodocidae",
+        "genus": "Apatosaurus",
+        "species": "Apatosaurus ajax, Apatosaurus louisae"
+      },
+      "length_m": 21,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "Apatosaurus was a large sauropod dinosaur. It lived around 150 million years ago in the Late Jurassic Period, in an area that is now North America. Like all sauropods, Apatosaurus ate plants. Young Apatosaurus individuals grew up quickly. They took around 10 years to reach full adult size.",
+        "fr": "Apatosaurus était un grand dinosaure sauropode. Il a vécu il y a environ 150 millions d'années, pendant la période Jurassique supérieur, dans une région qui est maintenant l'Amérique du Nord. Comme tous les sauropodes, Apatosaurus mangeait des plantes. Les jeunes Apatosaurus grandissaient rapidement. Ils mettaient environ 10 ans pour atteindre leur taille adulte complète."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Aragosaurus",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Camarasauridae",
+        "genus": "Aragosaurus",
+        "species": "Aragosaurus ischiaticus"
+      },
+      "length_m": 18,
+      "discovered_in": {
+        "en": "Spain",
+        "fr": "Espagne"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Aralosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Aralosaurus",
+        "species": "Aralosaurus tuberiferus"
+      },
+      "length_m": 8,
+      "discovered_in": {
+        "en": "Kazakhstan",
+        "fr": "Kazakhstan"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Archaeoceratops",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Cerapoda",
+        "family": "Archaeoceratopsidae",
+        "genus": "Archaeoceratops",
+        "species": "Archaeoceratops oshimai"
+      },
+      "length_m": 1.3,
+      "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Archaeopteryx",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Archaeopterygidae",
+        "genus": "Archaeopteryx",
+        "species": "Archaeopteryx lithographica, Archaeopteryx albersdoerferi, Archaeopteryx siemensii"
+      },
+      "length_m": 0.5,
+      "discovered_in": {
+        "en": "Germany",
+        "fr": "Allemagne"
+      },
+      "description": {
+        "en": "Archaeopteryx was a small, bird-like dinosaur. It lived during the Late Jurassic Period in what is now Europe. The discovery of the first Archaeopteryx fossil in Germany in 1861 caused a lot of confusion. No birds were known from so far back. Some people even thought it might be an angel. Since then, multiple fossils of Archaeopteryx have been discovered. Many show clear evidence of long feathers. But we don't know whether Archaeopteryx was fully able to fly or if it could only glide. Archaeopteryx also has a common name - Urvogel, a German name meaning 'primeval bird'.",
+        "fr": "Archaeopteryx était un petit dinosaure ressemblant à un oiseau. Il a vécu pendant la période Jurassique supérieur dans ce qui est maintenant l'Europe. La découverte du premier fossile d'Archaeopteryx en Allemagne en 1861 a causé beaucoup de confusion. Aucun oiseau n'était connu d'aussi loin dans le passé. Certaines personnes ont même pensé qu'il pourrait s'agir d'un ange. Depuis, plusieurs fossiles d'Archaeopteryx ont été découverts. Beaucoup montrent des preuves claires de longues plumes. Mais nous ne savons pas si l'Archaeopteryx était entièrement capable de voler ou s'il pouvait seulement planer. L'Archaeopteryx a également un nom commun - Urvogel, un nom allemand signifiant 'oiseau primitif'."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Archaeornithomimus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Ornithomimidae",
+        "genus": "Archaeornithomimus",
+        "species": "Archaeornithomimus asiaticus"
+      },
+      "length_m": 3.5,
+      "discovered_in": {
+        "en": "China, Uzbekistan ",
+        "fr": "Chine, Ouzbekistan"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Argentinosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauria",
+        "genus": "Argentinosaurus",
+        "species": "Argentinosaurus huinculensis"
+      },
+      "length_m": 35,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "The exact size of Argentinosaurus is hard to estimate due to the incompleteness of its fossilised remains. But it is one of the largest land animals ever found. It carried on growing throughout most of its lifetime. Other similarly massive dinosaurs include Patagotitan and Puertasaurus. They were all titanosaurs, a type of sauropod. Argentinosaurus probably used its long neck to sweep the ground or to reach high up in search of vegetation. The hatchlings of Argentinosaurus would have taken 15 years to grow to adulthood and in that time they would have been very vulnerable to predators, such as Giganotosaurus.",
+        "fr": "La taille exacte de l'Argentinosaurus est difficile à estimer en raison de l'incomplétude de ses restes fossilisés. Mais c'est l'un des plus grands animaux terrestres jamais découverts. Il continuait à croître pendant la majeure partie de sa vie. D'autres dinosaures tout aussi massifs incluent le Patagotitan et le Puertasaurus. Ils étaient tous des titanosaurs, un type de sauropode. L'Argentinosaurus utilisait probablement son long cou pour balayer le sol ou pour atteindre les hauteurs à la recherche de végétation. Les nouveau-nés d'Argentinosaurus auraient mis 15 ans pour atteindre l'âge adulte et pendant ce temps, ils étaient très vulnérables aux prédateurs, tels que le Giganotosaurus."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Arrhinoceratops",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Arrhinoceratops",
+        "species": "Arrhinoceratops brachyops"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Atlascopcosaurus",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Atlascopcosaurus",
+        "species": "Atlascopcosaurus loadsi"
+      },
+      "length_m": 3,
+      "discovered_in": {
+        "en": "Australia",
+        "fr": "Australie"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Atrociraptor",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Coelurosauria",
+        "family": "Dromaeosauridae",
+        "genus": "Atrociraptor",
+        "species": "Atrociraptor marshalli"
+      },
+      "length_m": 2,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "Atrociraptor was a meat-eating dinosaur in the dromaeosaur group. It was a relative of the well-known hunter Velociraptor. Very few fossils have been found for Atrociraptor. So far, we only have remains for the front parts of its jaws and some teeth. We can only guess at what the full dinosaur might have looked like based on what we know about other dromaeosaurs.",
+        "fr": "Atrociraptor était un dinosaure carnivore appartenant au groupe des dromaeosaures. C'était un parent du célèbre chasseur Velociraptor. Très peu de fossiles d'Atrociraptor ont été trouvés. Jusqu'à présent, nous n'avons que des restes des parties avant de ses mâchoires et quelques dents. Nous ne pouvons que deviner à quoi pouvait ressembler l'ensemble du dinosaure en nous basant sur ce que nous savons d'autres dromaeosaures."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Aucasaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Aucasaurus",
+        "species": "Aucasaurus garridoi"
+      },
+      "length_m": 5,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Austrosaurus",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "incertae sedis",
+        "genus": "Austrosaurus",
+        "species": "Austrosaurus mckillopi"
+      },
+      "length_m": 15,
+      "discovered_in": {
+        "en": "Australia",
+        "fr": "Australie"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Avaceratops",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Avaceratops",
+        "species": "Avaceratops lammersi"
+      },
+      "length_m": 2.3,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Avimimus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Omnivorous",
+        "fr": "Omnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Avimimidae",
+        "genus": "Avimimus",
+        "species": "Avimimus portentosus, Avimimus nemegtensis"
+      },
+      "length_m": 1.5,
+      "discovered_in": {
+        "en": "China, Mongolia",
+        "fr": "Chine, Mongolie"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Bactrosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauroidea",
+        "genus": "Bactrosaurus",
+        "species": "Bactrosaurus johnsoni"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Bagaceratops",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Bagaceratopidae",
+        "genus": "Bagaceratops",
+        "species": "Bagaceratops rozhdestvenskyi"
+      },
+      "length_m": 1,
+      "discovered_in": {
+        "en": "Mongolia",
+        "fr": "Mongolie"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Bambiraptor",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Avetheropoda",
+        "suborder": "Coelurosauria",
+        "family": "Dromaeosauridae",
+        "genus": "Bambiraptor",
+        "species": "Bambiraptor feinbergi"
+      },
+      "length_m": 1,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Barapasaurus",
+      "period": {
+        "en": "Early Jurassic",
+        "fr": "Jurassique inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Vulcanodontidae",
+        "genus": "Barapasaurus",
+        "species": "Barapasaurus tagorei"
+      },
+      "length_m": 14,
+      "discovered_in": {
+        "en": "India",
+        "fr": "Inde"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Barosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Diplodocidae",
+        "genus": "Barosaurus",
+        "species": "Barosaurus lentus"
+      },
+      "length_m": 24,
+      "discovered_in": {
+        "en": "Tanzania, USA ",
+        "fr": "Tanzanie, États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Baryonyx",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Spinosauridae",
+        "genus": "Baryonyx",
+        "species": "Baryonyx walkeri"
+      },
+      "length_m": 10,
+      "discovered_in": {
+        "en": "England, Spain, United Kingdom",
+        "fr": "Angleterre, Espagne, Royaume-Uni"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Becklespinax",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "incertae sedis",
+        "genus": "Becklespinax",
+        "species": "Becklespinax altispinax"
+      },
+      "length_m": 5,
+      "discovered_in": {
+        "en": "England, United Kingdom",
+        "fr": "Angleterre, Royaume-Uni"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Beipiaosaurus",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Omnivorous",
+        "fr": "Omnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Therizinosauridae",
+        "genus": "Beipiaosaurus",
+        "species": "Beipiaosaurus inexpectus"
+      },
+      "length_m": 2,
+      "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Bellusaurus",
+      "period": {
+        "en": "Mid Jurassic",
+        "fr": "Jurassique Moyen"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Mamenchisauridae",
+        "genus": "Bellusaurus",
+        "species": "Bellusaurus sui"
+      },
+      "length_m": 5,
+      "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Borogovia",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Troodontidae",
+        "genus": "Borogovia",
+        "species": "Borogovia gracilicrus"
+      },
+      "length_m": 1.5,
+      "discovered_in": {
+        "en": "Mongolia",
+        "fr": "Mongolie"
+      },
+      "description": {
+        "en": "Only partial hindlimbs of this dinosaur have been found, so reconstructions are speculative. It was named after Lewis Carroll's borogoves from the poem Jabberwocky, published in 1871.",
+        "fr": "Seules des parties des membres postérieurs de ce dinosaure ont été trouvées, donc les reconstructions sont spéculatives. Il a été nommé d'après les borogoves de Lewis Carroll, issus du poème Jabberwocky, publié en 1871."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Brachiosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Brachiosauridae",
+        "genus": "Brachiosaurus",
+        "species": "Brachiosaurus altithorax"
+      },
+      "length_m": 30,
+      "discovered_in": {
+        "en": "Algeria, Portugal, Tanzania, USA ",
+        "fr": "Algérie, Portugal, Tanzanie, États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Brachylophosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Brachylophosaurus",
+        "species": "Brachylophosaurus canadensis"
+      },
+      "length_m": 7,
+      "discovered_in": {
+        "en": "Canada, USA ",
+        "fr": "Canada, États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Brachytrachelopan",
+      "period": {
+        "en": "Mid Jurassic",
+        "fr": "Jurassique moyen"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Dicraeosauridae",
+        "genus": "Brachytrachelopan",
+        "species": "Brachytrachelopan mesai"
+      },
+      "length_m": 10,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "Brachytrachelopan is known from partial neck and dorsal vertebrae (part of the backbone), ribs, a partial pelvis and limb bones. This dinosaur had, proportionately, the shortest neck of any known sauropod.",
+        "fr": "Brachytrachelopan est connu à partir de parties de vertèbres cervicales et dorsales (partie de la colonne vertébrale), de côtes, d'un bassin partiel et d'os des membres. Ce dinosaure avait, proportionnellement, le cou le plus court de tous les sauropodes connus."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Buitreraptor",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Buitreraptor",
+        "species": "Buitreraptor gonzalezorum"
+      },
+      "length_m": 1.3,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
       "name": "",
       "period": {
         "en": "",
@@ -702,7 +1632,162 @@
         "genus": "",
         "species": ""
       },
-      "length_m": "",
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
       "discovered_in": {
         "en": "",
         "fr": ""
