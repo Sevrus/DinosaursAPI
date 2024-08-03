@@ -1613,6 +1613,905 @@
       "image_url": ""
     },
     {
+      "name": "Camarasaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Camarasauridae",
+        "genus": "Camarasaurus",
+        "species": "Camarasaurus supremus, Camarasaurus lentus, Camarasaurus grandis, Camarasaurus lewisi"
+      },
+      "length_m": 23,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Camptosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Cramptosauridae",
+        "genus": "Cramptosaurus",
+        "species": "Cramptosaurus hoggii, Cramptosaurus dispar, Camptosaurus prestwichii"
+      },
+      "length_m": 5,
+      "discovered_in": {
+        "en": "England, United Kingdom, USA",
+        "fr": "Angleterre, Royaume-Uni, États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Carcharodontosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Carcharodontosauridae",
+        "genus": "Carcharodontosaurus",
+        "species": "C. saharicus, C. iguidensis"
+      },
+      "length_m": 12.5,
+      "discovered_in": {
+        "en": "Algeria, Egypt, Morocco, North Africa",
+        "fr": "Algérie, Égypte, Maroc, Afrique du Nord"
+      },
+      "description": {
+        "en": "Carcharodontosaurus was a very large meat-eating dinosaur. It is named after Carcharodon, the scientific name for several types of shark - of which the great white shark is the only living example. Carcharodontosaurus teeth look a lot like shark teeth. Like Tyrannosaurus, it had about 60 of them.",
+        "fr": "Carcharodontosaurus était un très grand dinosaure carnivore. Il tire son nom de Carcharodon, le nom scientifique de plusieurs types de requins, dont le grand requin blanc est le seul exemple vivant. Les dents de Carcharodontosaurus ressemblent beaucoup à des dents de requin. Comme le Tyrannosaurus, il en avait environ 60"
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Carnotaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Carnotaurus",
+        "species": "Carnotaurus sastrei"
+      },
+      "length_m": 8,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "Carnotaurus was a meat-eating dinosaur with two horns on the top of its head and very small arms. It had an unusually short snout and its head was very narrow when viewed from the front. Scientists have found lots of skin impressions for this dinosaur, so we know that it had scales over much of its body. It's unlikely that Carnotaurus or its relatives had feathers - no evidence of them has ever been found. We also don't have a complete skeleton. So far, nobody has ever found the tail or lower legs of Carnotaurus. This means we must use some guesswork based on the remains of this dinosaur's close relatives to do a full-body reconstruction.",
+        "fr": "Carnotaurus était un dinosaure carnivore avec deux cornes sur le dessus de sa tête et des bras très petits. Il avait un museau exceptionnellement court et sa tête était très étroite vue de face. Les scientifiques ont trouvé de nombreuses impressions de peau pour ce dinosaure, ce qui nous permet de savoir qu'il avait des écailles sur une grande partie de son corps. Il est peu probable que Carnotaurus ou ses proches parents aient eu des plumes - aucune preuve de leur existence n'a jamais été trouvée. Nous n'avons pas non plus de squelette complet. Jusqu'à présent, personne n'a trouvé la queue ou les membres inférieurs de Carnotaurus. Cela signifie que nous devons utiliser des suppositions basées sur les restes des proches parents de ce dinosaure pour faire une reconstruction complète du corps."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Caudipteryx",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Omnivorous",
+        "fr": "Omnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Caudipteridae",
+        "genus": "Caudipteryx",
+        "species": "Caudipteryx zoui, Caudipteryx dongi"
+      },
+      "length_m": 1,
+      "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
+        "en": "This bird-like dinosaur lived after Archaeopteryx. It had a fan of feathers at the end of its tail. Caudipteryx has been found with gizzard stones (small stones swallowed by the dinosaur, perhaps to help digest food) and had small, weak teeth. It probably ate insects and maybe plants as well.",
+        "fr": "Ce dinosaure ressemblant à un oiseau a vécu après Archaeopteryx. Il avait un éventail de plumes au bout de sa queue. Des Caudipteryx ont été trouvés avec des gastrolithes (de petits cailloux avalés par le dinosaure, peut-être pour aider à digérer la nourriture) et avaient de petites dents faibles. Il mangeait probablement des insectes et peut-être aussi des plantes."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Cedarpelta",
+      "period": {
+        "en": "Early Cretaceous",
+        "fr": "Crétacé inférieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ankylosauria",
+        "family": "Ankylosauridae",
+        "genus": "Cedarpelta",
+        "species": "Cedarpelta bilbeyhallorum"
+      },
+      "length_m": 10,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Centrosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Centrosaurus",
+        "species": "Centrosaurus apertus"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Ceratosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Ceratosauridae",
+        "genus": "Ceratosaurus",
+        "species": "Ceratosaurus nasicornis, Ceratosaurus dentisulcatus, Ceratosaurus magnicornis"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "Portugal, USA",
+        "fr": "Portugal, États-Unis"
+      },
+      "description": {
+        "en": "Ceratosaurus means 'horned lizard'. The dinosaur was given this name because it had a row of sharp horns on its head and a row of small, bony pieces of armour running along its back. It is not known what this body armour was for, but it could have been for protection from attack by other Ceratosaurus or larger theropods such as Allosaurus and Torvosaurus. Scientists have estimated that Ceratosaurus was about six to seven metres long. It seems to have been quite a rare animal - remains of it are much rarer than those of the Allosaurus that lived alongside it. Ceratosaurus was one of the biggest hunters in the Jurassic Period. Its prey probably included plant-eating dinosaurs, but some scientists have suggested that it may have fed upon aquatic animals such as fish, turtles and crocodiles. Ceratosaurus is remarkable for the very long, slender teeth in its upper jaw. These teeth could be over nine centimetres long, nearly as long as the lower jaw was deep, so they would almost stick out beyond it when the mouth was closed. Nobody really knows why the teeth were so long, but they may have helped it inflict deep, slashing wounds in prey.",
+        "fr": "Ceratosaurus signifie 'lézard cornu'. Ce dinosaure a reçu ce nom parce qu'il avait une rangée de cornes acérées sur sa tête et une rangée de petites pièces osseuses en forme d'armure courant le long de son dos. On ne sait pas à quoi servait cette armure corporelle, mais elle pourrait avoir servi à se protéger des attaques d'autres Ceratosaurus ou de grands théropodes tels que Allosaurus et Torvosaurus. Les scientifiques ont estimé que Ceratosaurus mesurait environ six à sept mètres de long. Il semble avoir été un animal assez rare - ses restes sont beaucoup plus rares que ceux de l'Allosaurus qui vivait à la même époque. Ceratosaurus était l'un des plus grands chasseurs de la période jurassique. Ses proies incluaient probablement des dinosaures herbivores, mais certains scientifiques ont suggéré qu'il pouvait également se nourrir d'animaux aquatiques tels que des poissons, des tortues et des crocodiles. Ceratosaurus est remarquable pour ses dents très longues et fines dans sa mâchoire supérieure. Ces dents pouvaient mesurer plus de neuf centimètres de long, presque aussi longues que la profondeur de la mâchoire inférieure, elles auraient donc presque dépassé quand la bouche était fermée. Personne ne sait vraiment pourquoi les dents étaient si longues, mais elles pouvaient l'aider à infliger des blessures profondes et coupantes à ses proies."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Cetiosauriscus",
+      "period": {
+        "en": "Mid Jurassic",
+        "fr": "Jurassique moyen"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Diplodocidae",
+        "genus": "Cetiosauriscus",
+        "species": "Cetiosauriscus stewarti"
+      },
+      "length_m": 15,
+      "discovered_in": {
+        "en": "England, United Kingdom",
+        "fr": "Angleterre, Royaume-Uni"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Cetiosaurus",
+      "period": {
+        "en": "Mid Jurassic",
+        "fr": "Jurassique moyen"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Cetiosauridae",
+        "genus": "Cetiosaurus",
+        "species": "Cetiosaurus oxoniensis"
+      },
+      "length_m": 18,
+      "discovered_in": {
+        "en": "England, United Kingdom",
+        "fr": "Angleterre, Royaume-Uni"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Chaoyangsaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Chaoyangsauridae",
+        "genus": "Chaoyangsaurus",
+        "species": "Chaoyangsaurus youngi"
+      },
+      "length_m": 1.1,
+      "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Chasmosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Chasmosaurus",
+        "species": "Chasmosaurus belli, Chasmosaurus russelli, Chasmosaurus irvinensis"
+      },
+      "length_m": 5,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Chindesaurus",
+      "period": {
+        "en": "Late Triassic",
+        "fr": "Trias supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Herrerasauridae",
+        "genus": "Chindesaurus",
+        "species": "Chindesaurus bryansmalli"
+      },
+      "length_m": 4,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "It was a small carnivore with long hind legs, indicating that it ran quickly. It is only known from a single incomplete specimen discovered at Chinde Point in Petrified Forest National Park. Its size is estimated to be between 2 and 2.3 meters long. Its mass is estimated to be up to 50 kg.",
+        "fr": "C'était un carnivore de petite taille doté de longues pattes postérieures, signe qu'il courait vite. On ne le connait que grâce à un unique spécimen incomplet, découvert à Chinde Point dans le Parc national de PetrifiedForest. Sa taille est estimée entre 2 et 2,30 mètres de long. Sa masse est évaluée au plus à 50 kg."
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Chinshakiangosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "",
+        "genus": "Chinshakiangosaurus",
+        "species": "Chinshakiangosaurus chengjiangensis"
+      },
+      "length_m": 11,
+      "discovered_in": {
+        "en": "China",
+        "fr": "Chine"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "Chirostenotes",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Omnivorous",
+        "fr": "Omnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Caenagnathidae",
+        "genus": "Chirostenotes",
+        "species": "Chirostenotes pergracilis"
+      },
+      "length_m": 1.7,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
+      "name": "",
+      "period": {
+        "en": "",
+        "fr": ""
+      },
+      "diet": {
+        "en": "",
+        "fr": ""
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "",
+        "suborder": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+      },
+      "length_m": null,
+      "discovered_in": {
+        "en": "",
+        "fr": ""
+      },
+      "description": {
+        "en": "",
+        "fr": ""
+      },
+      "image_url": ""
+    },
+    {
       "name": "",
       "period": {
         "en": "",
