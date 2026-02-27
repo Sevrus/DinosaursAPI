@@ -2549,6 +2549,537 @@
         "en": "Dreadnoughtus was one of the largest land animals ever discovered. This enormous titanosaur lived in South America and weighed tens of tons.",
         "fr": "Dreadnoughtus était l'un des plus grands animaux terrestres jamais découverts. Ce titanosaure gigantesque vivait en Amérique du Sud et pesait plusieurs dizaines de tonnes."
       }
+    },
+    {
+      "name": "Daspletosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauridae",
+        "genus": "Daspletosaurus",
+        "species": "Daspletosaurus torosus, Daspletosaurus horneri"
+      },
+      "length_m": 9,
+      "discovered_in": {
+        "en": "Canada, USA",
+        "fr": "Canada, États-Unis"
+      },
+      "description": {
+        "en": "Daspletosaurus was a large tyrannosaur closely related to Tyrannosaurus. It had powerful jaws filled with sharp teeth and was one of the top predators of its time.",
+        "fr": "Daspletosaurus était un grand tyrannosaure étroitement apparenté au Tyrannosaurus. Il possédait de puissantes mâchoires remplies de dents acérées et faisait partie des principaux prédateurs de son époque."
+      }
+    },
+    {
+      "name": "Deinocheirus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Omnivorous",
+        "fr": "Omnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Ornithomimidae",
+        "genus": "Deinocheirus",
+        "species": "Deinocheirus mirificus"
+      },
+      "length_m": 11,
+      "discovered_in": {
+        "en": "Mongolia",
+        "fr": "Mongolie"
+      },
+      "description": {
+        "en": "Deinocheirus was a large theropod with extremely long arms and massive claws. It had a duck-like beak and may have eaten fish, plants and small animals.",
+        "fr": "Deinocheirus était un grand théropode doté de bras extrêmement longs et de griffes massives. Il possédait un bec semblable à celui d'un canard et se nourrissait probablement de poissons, de plantes et de petits animaux."
+      }
+    },
+    {
+      "name": "Dicraeosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Dicraeosauridae",
+        "genus": "Dicraeosaurus",
+        "species": "Dicraeosaurus hansemanni"
+      },
+      "length_m": 12,
+      "discovered_in": {
+        "en": "Tanzania",
+        "fr": "Tanzanie"
+      },
+      "description": {
+        "en": "Dicraeosaurus was a relatively short-necked sauropod compared to other long-necked dinosaurs. It had distinctive tall spines along its neck vertebrae.",
+        "fr": "Dicraeosaurus était un sauropode au cou relativement court comparé aux autres dinosaures au long cou. Il possédait des épines hautes caractéristiques le long de ses vertèbres cervicales."
+      }
+    },
+    {
+      "name": "Dryosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Dryosauridae",
+        "genus": "Dryosaurus",
+        "species": "Dryosaurus altus"
+      },
+      "length_m": 4,
+      "discovered_in": {
+        "en": "USA, Tanzania",
+        "fr": "États-Unis, Tanzanie"
+      },
+      "description": {
+        "en": "Dryosaurus was a small, fast herbivorous dinosaur. It likely ran on its hind legs to escape predators.",
+        "fr": "Dryosaurus était un petit dinosaure herbivore rapide. Il courait probablement sur ses pattes arrière pour échapper aux prédateurs."
+      }
+    },
+    {
+      "name": "Dysalotosaurus",
+      "period": {
+        "en": "Late Jurassic",
+        "fr": "Jurassique supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Dryosauridae",
+        "genus": "Dysalotosaurus",
+        "species": "Dysalotosaurus lettowvorbecki"
+      },
+      "length_m": 3,
+      "discovered_in": {
+        "en": "Tanzania",
+        "fr": "Tanzanie"
+      },
+      "description": {
+        "en": "Dysalotosaurus was a small plant-eating dinosaur that lived in herds. Many juvenile fossils have been found, giving scientists insights into its growth stages.",
+        "fr": "Dysalotosaurus était un petit dinosaure herbivore vivant en groupe. De nombreux fossiles de jeunes individus ont été découverts, permettant aux scientifiques d'étudier sa croissance."
+      }
+    },
+    {
+      "name": "Edmontosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Edmontosaurus",
+        "species": "Edmontosaurus regalis, Edmontosaurus annectens"
+      },
+      "length_m": 12,
+      "discovered_in": {
+        "en": "Canada, USA",
+        "fr": "Canada, États-Unis"
+      },
+      "description": {
+        "en": "Edmontosaurus was a large duck-billed dinosaur that lived near the end of the Cretaceous Period. It likely lived in herds and fed on a wide variety of plants.",
+        "fr": "Edmontosaurus était un grand dinosaure à bec de canard vivant à la fin du Crétacé. Il vivait probablement en troupeaux et se nourrissait d'une grande variété de plantes."
+      }
+    },
+    {
+      "name": "Einiosaurus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Einiosaurus",
+        "species": "Einiosaurus procurvicornis"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "USA",
+        "fr": "États-Unis"
+      },
+      "description": {
+        "en": "Einiosaurus was a horned dinosaur known for its distinctive forward-curving nose horn. It likely lived in herds and used its horns for display and defense.",
+        "fr": "Einiosaurus était un dinosaure à cornes connu pour sa corne nasale recourbée vers l'avant. Il vivait probablement en groupe et utilisait ses cornes pour l'affichage et la défense."
+      }
+    },
+    {
+      "name": "Eoraptor",
+      "period": {
+        "en": "Late Triassic",
+        "fr": "Trias supérieur"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Herrerasauridae",
+        "genus": "Eoraptor",
+        "species": "Eoraptor lunensis"
+      },
+      "length_m": 1,
+      "discovered_in": {
+        "en": "Argentina",
+        "fr": "Argentine"
+      },
+      "description": {
+        "en": "Eoraptor is one of the earliest known dinosaurs. It was small and lightly built and helps scientists understand the origins of later dinosaur groups.",
+        "fr": "Eoraptor est l'un des premiers dinosaures connus. Il était petit et léger et aide les scientifiques à comprendre l'origine des groupes de dinosaures ultérieurs."
+      }
+    },
+    {
+      "name": "Euoplocephalus",
+      "period": {
+        "en": "Late Cretaceous",
+        "fr": "Crétacé supérieur"
+      },
+      "diet": {
+        "en": "Herbivorous",
+        "fr": "Herbivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Ankylosauridae",
+        "genus": "Euoplocephalus",
+        "species": "Euoplocephalus tutus"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "Canada",
+        "fr": "Canada"
+      },
+      "description": {
+        "en": "Euoplocephalus was a heavily armored dinosaur with bony plates and a powerful tail club. It used its armor and tail as protection against large predators.",
+        "fr": "Euoplocephalus était un dinosaure lourdement cuirassé doté de plaques osseuses et d'une puissante massue caudale. Il utilisait son armure et sa queue pour se défendre contre les grands prédateurs."
+      }
+    },
+    {
+      "name": "Eustreptospondylus",
+      "period": {
+        "en": "Mid Jurassic",
+        "fr": "Jurassique moyen"
+      },
+      "diet": {
+        "en": "Carnivorous",
+        "fr": "Carnivore"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Megalosauridae",
+        "genus": "Eustreptospondylus",
+        "species": "Eustreptospondylus oxoniensis"
+      },
+      "length_m": 6,
+      "discovered_in": {
+        "en": "United Kingdom",
+        "fr": "Royaume-Uni"
+      },
+      "description": {
+        "en": "Eustreptospondylus was a medium-sized carnivorous dinosaur from the Jurassic of England. It was an early relative of later large theropods.",
+        "fr": "Eustreptospondylus était un dinosaure carnivore de taille moyenne du Jurassique d'Angleterre. Il était un parent primitif des grands théropodes apparus plus tard."
+      }
+    },
+    {
+      "name": "Efraasia",
+      "period": { "en": "Late Triassic", "fr": "Trias supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Plateosauridae",
+        "genus": "Efraasia",
+        "species": "Efraasia minor"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Germany", "fr": "Allemagne" },
+      "description": {
+        "en": "Efraasia was an early sauropodomorph from the Late Triassic. It represents an early stage in the evolution toward later giant long-necked sauropods.",
+        "fr": "Efraasia était un sauropodomorphe primitif du Trias supérieur. Il illustre une étape précoce de l'évolution menant aux grands sauropodes au long cou."
+      }
+    },
+    {
+      "name": "Ekrixinatosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Ekrixinatosaurus",
+        "species": "Ekrixinatosaurus novasi"
+      },
+      "length_m": 8,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Ekrixinatosaurus was a large abelisaurid predator from South America. Like its relatives, it likely had a strong skull and very reduced forelimbs.",
+        "fr": "Ekrixinatosaurus était un grand prédateur abélisauridé d'Amérique du Sud. Comme ses proches parents, il possédait probablement un crâne robuste et des membres antérieurs très réduits."
+      }
+    },
+    {
+      "name": "Elaphrosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Ceratosauria",
+        "genus": "Elaphrosaurus",
+        "species": "Elaphrosaurus bambergi"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Tanzania", "fr": "Tanzanie" },
+      "description": {
+        "en": "Elaphrosaurus was a slender theropod with long legs, suggesting it was a fast runner. It lived in Africa during the Late Jurassic.",
+        "fr": "Elaphrosaurus était un théropode élancé aux longues pattes, suggérant qu'il était un coureur rapide. Il vivait en Afrique au Jurassique supérieur."
+      }
+    },
+    {
+      "name": "Emausaurus",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Scelidosauridae",
+        "genus": "Emausaurus",
+        "species": "Emausaurus ernsti"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Germany", "fr": "Allemagne" },
+      "description": {
+        "en": "Emausaurus was an early armored dinosaur related to later stegosaurs and ankylosaurs. It likely had small bony plates and spikes for protection.",
+        "fr": "Emausaurus était un dinosaure cuirassé primitif, apparenté aux futurs stégosaures et ankylosaures. Il possédait probablement de petites plaques et pointes osseuses pour se protéger."
+      }
+    },
+    {
+      "name": "Enigmosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Therizinosauridae",
+        "genus": "Enigmosaurus",
+        "species": "Enigmosaurus mongoliensis"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Enigmosaurus was a therizinosaur, a group of unusual theropods with long claws and plant-based diets. It likely used its claws for feeding and defense.",
+        "fr": "Enigmosaurus était un thérizinosaure, un groupe de théropodes atypiques à longues griffes et au régime surtout végétal. Ses griffes servaient probablement à se nourrir et à se défendre."
+      }
+    },
+    {
+      "name": "Eolambia",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauroidea",
+        "genus": "Eolambia",
+        "species": "Eolambia caroljonesa"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Eolambia was an early duck-billed relative (hadrosauroid) that lived before the classic hadrosaurs became widespread. It was a herd-living plant eater.",
+        "fr": "Eolambia était un proche parent précoce des dinosaures à bec de canard (hadrosauroïdes), avant l'expansion des hadrosaures classiques. C'était un herbivore vivant probablement en groupe."
+      }
+    },
+    {
+      "name": "Eotyrannus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauroidea",
+        "genus": "Eotyrannus",
+        "species": "Eotyrannus lengi"
+      },
+      "length_m": 4.5,
+      "discovered_in": { "en": "United Kingdom", "fr": "Royaume-Uni" },
+      "description": {
+        "en": "Eotyrannus was an early relative of later tyrannosaurs. It was smaller and more lightly built than Tyrannosaurus but likely an active predator.",
+        "fr": "Eotyrannus était un parent primitif des tyrannosaures ultérieurs. Plus petit et plus léger que Tyrannosaurus, il était probablement un prédateur actif."
+      }
+    },
+    {
+      "name": "Equijubus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauroidea",
+        "genus": "Equijubus",
+        "species": "Equijubus normani"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Equijubus was an early hadrosauroid ornithopod that shows features between classic iguanodonts and later duck-billed dinosaurs.",
+        "fr": "Equijubus était un ornithopode hadrosauroïde précoce, présentant des traits intermédiaires entre les iguanodontes classiques et les futurs dinosaures à bec de canard."
+      }
+    },
+    {
+      "name": "Erketu",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauria",
+        "genus": "Erketu",
+        "species": "Erketu ellisoni"
+      },
+      "length_m": 15,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Erketu was a long-necked sauropod from the Early Cretaceous. Its neck vertebrae suggest it had a particularly long neck for its body size.",
+        "fr": "Erketu était un sauropode au long cou du Crétacé inférieur. Ses vertèbres cervicales indiquent un cou particulièrement long par rapport à la taille de son corps."
+      }
+    },
+    {
+      "name": "Erlikosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Therizinosauridae",
+        "genus": "Erlikosaurus",
+        "species": "Erlikosaurus andrewsi"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Erlikosaurus was a therizinosaur with a beak and leaf-shaped teeth, indicating a plant-based diet. It likely had long claws and a bulky body.",
+        "fr": "Erlikosaurus était un thérizinosaure avec un bec et des dents en forme de feuille, indiquant un régime végétal. Il possédait probablement de longues griffes et un corps massif."
+      }
+    },
+    {
+      "name": "Europasaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Brachiosauridae",
+        "genus": "Europasaurus",
+        "species": "Europasaurus holgeri"
+      },
+      "length_m": 6.5,
+      "discovered_in": { "en": "Germany", "fr": "Allemagne" },
+      "description": {
+        "en": "Europasaurus was a dwarf sauropod that evolved on an island environment, where limited resources favored smaller body size.",
+        "fr": "Europasaurus était un sauropode nain ayant évolué en milieu insulaire, où les ressources limitées favorisaient une taille corporelle réduite."
+      }
     }
   ]
 }
