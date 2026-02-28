@@ -3080,6 +3080,741 @@
         "en": "Europasaurus was a dwarf sauropod that evolved on an island environment, where limited resources favored smaller body size.",
         "fr": "Europasaurus était un sauropode nain ayant évolué en milieu insulaire, où les ressources limitées favorisaient une taille corporelle réduite."
       }
+    },
+    {
+      "name": "Fukuiraptor",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Neovenatoridae",
+        "genus": "Fukuiraptor",
+        "species": "Fukuiraptor kitadaniensis"
+      },
+      "length_m": 4.5,
+      "discovered_in": { "en": "Japan", "fr": "Japon" },
+      "description": {
+        "en": "Fukuiraptor was a medium-sized carnivorous theropod discovered in Japan. It had strong claws and was likely an agile predator.",
+        "fr": "Fukuiraptor était un théropode carnivore de taille moyenne découvert au Japon. Il possédait de puissantes griffes et était probablement un prédateur agile."
+      }
+    },
+    {
+      "name": "Fukuisaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Iguanodontia",
+        "genus": "Fukuisaurus",
+        "species": "Fukuisaurus tetoriensis"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "Japan", "fr": "Japon" },
+      "description": {
+        "en": "Fukuisaurus was an early iguanodontian herbivore from Japan. It likely moved on two or four legs and fed on low-growing vegetation.",
+        "fr": "Fukuisaurus était un iguanodontien herbivore primitif découvert au Japon. Il se déplaçait probablement sur deux ou quatre pattes et se nourrissait de végétation basse."
+      }
+    },
+    {
+      "name": "Fukuititan",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauriformes",
+        "genus": "Fukuititan",
+        "species": "Fukuititan nipponensis"
+      },
+      "length_m": 10,
+      "discovered_in": { "en": "Japan", "fr": "Japon" },
+      "description": {
+        "en": "Fukuititan was a plant-eating sauropod from Japan. It belonged to the group of titanosaurs and had a long neck and tail.",
+        "fr": "Fukuititan était un sauropode herbivore du Japon. Il appartenait au groupe des titanosaures et possédait un long cou et une longue queue."
+      }
+    },
+    {
+      "name": "Fulgurotherium",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Fulgurotherium",
+        "species": "Fulgurotherium australe"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Australia", "fr": "Australie" },
+      "description": {
+        "en": "Fulgurotherium was a small herbivorous ornithopod from Australia. It was lightly built and likely fast, helping it escape predators.",
+        "fr": "Fulgurotherium était un petit ornithopode herbivore d'Australie. Il était léger et probablement rapide, ce qui l'aidait à échapper aux prédateurs."
+      }
+    },
+    {
+      "name": "Gallimimus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Omnivorous", "fr": "Omnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Ornithomimidae",
+        "genus": "Gallimimus",
+        "species": "Gallimimus bullatus"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Gallimimus was a fast-running dinosaur with long legs and a toothless beak. It likely fed on plants, small animals and possibly insects.",
+        "fr": "Gallimimus était un dinosaure rapide aux longues pattes et au bec sans dents. Il se nourrissait probablement de plantes, de petits animaux et peut-être d'insectes."
+      }
+    },
+    {
+      "name": "Gasosaurus",
+      "period": { "en": "Mid Jurassic", "fr": "Jurassique moyen" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Megalosauridae",
+        "genus": "Gasosaurus",
+        "species": "Gasosaurus constructus"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Gasosaurus was a medium-sized carnivorous dinosaur discovered during gas pipeline construction in China, which inspired its name.",
+        "fr": "Gasosaurus était un dinosaure carnivore de taille moyenne découvert lors de travaux de construction d'un gazoduc en Chine, ce qui a inspiré son nom."
+      }
+    },
+    {
+      "name": "Giganotosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Carcharodontosauridae",
+        "genus": "Giganotosaurus",
+        "species": "Giganotosaurus carolinii"
+      },
+      "length_m": 13,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Giganotosaurus was one of the largest carnivorous dinosaurs ever discovered. It was a powerful predator that lived in South America during the Late Cretaceous.",
+        "fr": "Giganotosaurus était l'un des plus grands dinosaures carnivores jamais découverts. C'était un prédateur puissant vivant en Amérique du Sud au Crétacé supérieur."
+      }
+    },
+    {
+      "name": "Giraffatitan",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Brachiosauridae",
+        "genus": "Giraffatitan",
+        "species": "Giraffatitan brancai"
+      },
+      "length_m": 23,
+      "discovered_in": { "en": "Tanzania", "fr": "Tanzanie" },
+      "description": {
+        "en": "Giraffatitan was a giant long-necked sauropod similar to Brachiosaurus. Its long forelimbs gave it an upright posture and allowed it to reach high vegetation.",
+        "fr": "Giraffatitan était un immense sauropode au long cou proche du Brachiosaurus. Ses longs membres antérieurs lui donnaient une posture élevée et lui permettaient d'atteindre la végétation en hauteur."
+      }
+    },
+    {
+      "name": "Gojirasaurus",
+      "period": { "en": "Late Triassic", "fr": "Trias supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Coelophysoidea",
+        "genus": "Gojirasaurus",
+        "species": "Gojirasaurus quayi"
+      },
+      "length_m": 5.5,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Gojirasaurus was an early large theropod from the Late Triassic. Its name was inspired by the Japanese monster Godzilla.",
+        "fr": "Gojirasaurus était un grand théropode primitif du Trias supérieur. Son nom a été inspiré du monstre japonais Godzilla."
+      }
+    },
+    {
+      "name": "Gryphoceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Leptoceratopsidae",
+        "genus": "Gryphoceratops",
+        "species": "Gryphoceratops morrisoni"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Canada", "fr": "Canada" },
+      "description": {
+        "en": "Gryphoceratops was a small horned dinosaur belonging to the leptoceratopsids. It lacked large horns but had a beaked mouth for cropping plants.",
+        "fr": "Gryphoceratops était un petit dinosaure à cornes appartenant aux leptoceratopsidés. Il ne possédait pas de grandes cornes mais avait un bec adapté pour couper les plantes."
+      }
+    },
+    {
+      "name": "Guanlong",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauroidea",
+        "genus": "Guanlong",
+        "species": "Guanlong wucaii"
+      },
+      "length_m": 3,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Guanlong was an early relative of the tyrannosaurs. It had a distinctive crest on its head and was much smaller than its later giant relatives.",
+        "fr": "Guanlong était un parent primitif des tyrannosaures. Il possédait une crête distinctive sur la tête et était bien plus petit que ses gigantesques descendants."
+      }
+    },
+    {
+      "name": "Gobisaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Ankylosauridae",
+        "genus": "Gobisaurus",
+        "species": "Gobisaurus domoculus"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Gobisaurus was a heavily armored ankylosaur with a broad body and strong defensive adaptations. It likely relied on armor and possibly a tail club for protection.",
+        "fr": "Gobisaurus était un ankylosaure fortement cuirassé au corps large et aux importantes adaptations défensives. Il comptait probablement sur son armure et peut-être une massue caudale pour se protéger."
+      }
+    },
+    {
+      "name": "Gondwanatitan",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauria",
+        "genus": "Gondwanatitan",
+        "species": "Gondwanatitan faustoi"
+      },
+      "length_m": 15,
+      "discovered_in": { "en": "Brazil", "fr": "Brésil" },
+      "description": {
+        "en": "Gondwanatitan was a titanosaur from South America. Like other titanosaurs, it had a long neck and tail and was a large plant-eater.",
+        "fr": "Gondwanatitan était un titanosaure d'Amérique du Sud. Comme les autres titanosaures, il possédait un long cou et une longue queue et était un grand herbivore."
+      }
+    },
+    {
+      "name": "Goyocephale",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Pachycephalosauridae",
+        "genus": "Goyocephale",
+        "species": "Goyocephale lattimorei"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Goyocephale was a dome-headed dinosaur related to Pachycephalosaurus. It likely used its thick skull in display behavior or head-butting contests.",
+        "fr": "Goyocephale était un dinosaure à crâne épais apparenté à Pachycephalosaurus. Il utilisait probablement son crâne renforcé pour l'affichage ou des combats de tête."
+      }
+    },
+    {
+      "name": "Gryposaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Gryposaurus",
+        "species": "Gryposaurus notabilis"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "Canada, USA", "fr": "Canada, États-Unis" },
+      "description": {
+        "en": "Gryposaurus was a duck-billed dinosaur known for the prominent hump on its nose. It lived in North America and likely moved in herds.",
+        "fr": "Gryposaurus était un dinosaure à bec de canard connu pour la bosse proéminente sur son museau. Il vivait en Amérique du Nord et se déplaçait probablement en troupeaux."
+      }
+    },
+    {
+      "name": "Hadrosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Hadrosaurus",
+        "species": "Hadrosaurus foulkii"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Hadrosaurus was one of the first nearly complete dinosaur skeletons discovered in North America. It is the dinosaur that gave its name to the duck-billed group, Hadrosauridae.",
+        "fr": "Hadrosaurus est l'un des premiers squelettes de dinosaure presque complets découverts en Amérique du Nord. Il a donné son nom au groupe des dinosaures à bec de canard, les Hadrosauridae."
+      }
+    },
+    {
+      "name": "Herrerasaurus",
+      "period": { "en": "Late Triassic", "fr": "Trias supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Herrerasauridae",
+        "genus": "Herrerasaurus",
+        "species": "Herrerasaurus ischigualastensis"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Herrerasaurus was one of the earliest known carnivorous dinosaurs. It lived during the Late Triassic and helps scientists understand the origin of theropods.",
+        "fr": "Herrerasaurus est l'un des premiers dinosaures carnivores connus. Il vivait au Trias supérieur et aide les scientifiques à comprendre l'origine des théropodes."
+      }
+    },
+    {
+      "name": "Hylaeosaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Ankylosauria",
+        "genus": "Hylaeosaurus",
+        "species": "Hylaeosaurus armatus"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "United Kingdom", "fr": "Royaume-Uni" },
+      "description": {
+        "en": "Hylaeosaurus was one of the first armored dinosaurs ever described. It had bony plates and spikes along its body for protection.",
+        "fr": "Hylaeosaurus est l'un des premiers dinosaures cuirassés décrits. Il possédait des plaques et des pointes osseuses le long du corps pour se protéger."
+      }
+    },
+    {
+      "name": "Huayangosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Stegosauridae",
+        "genus": "Huayangosaurus",
+        "species": "Huayangosaurus taibaii"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Huayangosaurus was an early stegosaur with plates and spikes along its back and tail. It lived in Asia during the Jurassic Period.",
+        "fr": "Huayangosaurus était un stégosaure primitif doté de plaques et de pointes le long du dos et de la queue. Il vivait en Asie au Jurassique."
+      }
+    },
+    {
+      "name": "Heterodontosaurus",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Cerapoda",
+        "family": "Heterodontosauridae",
+        "genus": "Heterodontosaurus",
+        "species": "Heterodontosaurus tucki"
+      },
+      "length_m": 1.2,
+      "discovered_in": { "en": "South Africa", "fr": "Afrique du Sud" },
+      "description": {
+        "en": "Heterodontosaurus was a small early ornithischian dinosaur with different types of teeth in its jaws. It may have had a varied diet including plants and possibly small animals.",
+        "fr": "Heterodontosaurus était un petit dinosaure ornithischien primitif possédant différents types de dents. Il pouvait avoir un régime varié comprenant des plantes et peut-être de petits animaux."
+      }
+    },
+    {
+      "name": "Hypacrosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Hypacrosaurus",
+        "species": "Hypacrosaurus stebingeri, Hypacrosaurus altispinus"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "Canada, USA", "fr": "Canada, États-Unis" },
+      "description": {
+        "en": "Hypacrosaurus was a crested duck-billed dinosaur closely related to Corythosaurus. Fossils of nests and juveniles have provided important insights into its growth.",
+        "fr": "Hypacrosaurus était un dinosaure à bec de canard doté d'une crête, proche de Corythosaurus. Des fossiles de nids et de jeunes individus ont permis de mieux comprendre sa croissance."
+      }
+    },
+    {
+      "name": "Hesperosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Stegosauridae",
+        "genus": "Hesperosaurus",
+        "species": "Hesperosaurus mjosi"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Hesperosaurus was a stegosaur with plates along its back and spikes on its tail. It lived in North America during the Late Jurassic.",
+        "fr": "Hesperosaurus était un stégosaure doté de plaques le long du dos et de pointes sur la queue. Il vivait en Amérique du Nord au Jurassique supérieur."
+      }
+    },
+    {
+      "name": "Hulsanpes",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Hulsanpes",
+        "species": "Hulsanpes perlei"
+      },
+      "length_m": 1,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Hulsanpes was a small dromaeosaur from Mongolia. Though known from limited remains, it was likely a swift and agile predator.",
+        "fr": "Hulsanpes était un petit dromaeosaure découvert en Mongolie. Bien que connu à partir de restes limités, il était probablement un prédateur rapide et agile."
+      }
+    },
+    {
+      "name": "Huanansaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Omnivorous", "fr": "Omnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Caenagnathidae",
+        "genus": "Huanansaurus",
+        "species": "Huanansaurus ganzhouensis"
+      },
+      "length_m": 2.5,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Huanansaurus was an oviraptorosaur from China. It likely had a beak and may have fed on plants, small animals, or eggs.",
+        "fr": "Huanansaurus était un oviraptorosaure découvert en Chine. Il possédait probablement un bec et pouvait se nourrir de plantes, de petits animaux ou d'œufs."
+      }
+    },
+    {
+      "name": "Iguanodon",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Iguanodontidae",
+        "genus": "Iguanodon",
+        "species": "Iguanodon bernissartensis, Iguanodon galvensis"
+      },
+      "length_m": 10,
+      "discovered_in": { "en": "Belgium, United Kingdom, Spain", "fr": "Belgique, Royaume-Uni, Espagne" },
+      "description": {
+        "en": "Iguanodon was one of the first dinosaurs ever described scientifically. It had a distinctive thumb spike and could walk on two or four legs.",
+        "fr": "Iguanodon est l'un des premiers dinosaures décrits scientifiquement. Il possédait une pointe caractéristique au pouce et pouvait marcher sur deux ou quatre pattes."
+      }
+    },
+    {
+      "name": "Irritator",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Spinosauridae",
+        "genus": "Irritator",
+        "species": "Irritator challengeri"
+      },
+      "length_m": 8,
+      "discovered_in": { "en": "Brazil", "fr": "Brésil" },
+      "description": {
+        "en": "Irritator was a spinosaurid theropod related to Spinosaurus. It likely fed on fish and other prey near rivers and lakes.",
+        "fr": "Irritator était un théropode spinosauridé apparenté à Spinosaurus. Il se nourrissait probablement de poissons et d'autres proies près des rivières et des lacs."
+      }
+    },
+    {
+      "name": "Indosuchus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Indosuchus",
+        "species": "Indosuchus raptorius"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "India", "fr": "Inde" },
+      "description": {
+        "en": "Indosuchus was a carnivorous abelisaurid dinosaur from India. It likely had a short, deep skull and reduced forelimbs like its relatives.",
+        "fr": "Indosuchus était un dinosaure abélisauridé carnivore découvert en Inde. Il possédait probablement un crâne court et profond ainsi que des membres antérieurs réduits."
+      }
+    },
+    {
+      "name": "Isanosaurus",
+      "period": { "en": "Late Triassic", "fr": "Trias supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Sauropoda",
+        "genus": "Isanosaurus",
+        "species": "Isanosaurus attavipachi"
+      },
+      "length_m": 6.5,
+      "discovered_in": { "en": "Thailand", "fr": "Thaïlande" },
+      "description": {
+        "en": "Isanosaurus is considered one of the earliest known sauropods. It represents an important stage in the evolution of long-necked dinosaurs.",
+        "fr": "Isanosaurus est considéré comme l'un des plus anciens sauropodes connus. Il représente une étape importante dans l'évolution des dinosaures au long cou."
+      }
+    },
+    {
+      "name": "Isisaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauridae",
+        "genus": "Isisaurus",
+        "species": "Isisaurus colberti"
+      },
+      "length_m": 18,
+      "discovered_in": { "en": "India", "fr": "Inde" },
+      "description": {
+        "en": "Isisaurus was a titanosaur from India with a relatively short neck compared to some other giant sauropods. It lived toward the end of the Cretaceous Period.",
+        "fr": "Isisaurus était un titanosaure d'Inde avec un cou relativement court comparé à certains autres sauropodes géants. Il vivait à la fin du Crétacé."
+      }
+    },
+    {
+      "name": "Iuticosaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauriformes",
+        "genus": "Iuticosaurus",
+        "species": "Iuticosaurus valdensis"
+      },
+      "length_m": 15,
+      "discovered_in": { "en": "United Kingdom", "fr": "Royaume-Uni" },
+      "description": {
+        "en": "Iuticosaurus was a sauropod from the Early Cretaceous of England. Its remains are fragmentary, and its exact classification has been debated.",
+        "fr": "Iuticosaurus était un sauropode du Crétacé inférieur d'Angleterre. Ses restes sont fragmentaires et sa classification exacte a fait l'objet de débats."
+      }
+    },
+    {
+      "name": "Jaxartosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Jaxartosaurus",
+        "species": "Jaxartosaurus aralensis"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "Kazakhstan", "fr": "Kazakhstan" },
+      "description": {
+        "en": "Jaxartosaurus was a duck-billed dinosaur from Central Asia. It likely had a hollow crest and lived in herds.",
+        "fr": "Jaxartosaurus était un dinosaure à bec de canard d'Asie centrale. Il possédait probablement une crête creuse et vivait en troupeaux."
+      }
+    },
+    {
+      "name": "Jingshanosaurus",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Massospondylidae",
+        "genus": "Jingshanosaurus",
+        "species": "Jingshanosaurus xinwaensis"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Jingshanosaurus was an early sauropodomorph dinosaur from China. It represents a transitional stage before the evolution of the giant sauropods.",
+        "fr": "Jingshanosaurus était un sauropodomorphe primitif découvert en Chine. Il représente une étape intermédiaire avant l'apparition des gigantesques sauropodes."
+      }
+    },
+    {
+      "name": "Jobaria",
+      "period": { "en": "Mid Jurassic", "fr": "Jurassique moyen" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Sauropoda",
+        "genus": "Jobaria",
+        "species": "Jobaria tiguidensis"
+      },
+      "length_m": 21,
+      "discovered_in": { "en": "Niger", "fr": "Niger" },
+      "description": {
+        "en": "Jobaria was a large sauropod from Africa. Unlike more advanced sauropods, it retained some primitive skeletal features.",
+        "fr": "Jobaria était un grand sauropode africain. Contrairement aux sauropodes plus évolués, il conservait certaines caractéristiques squelettiques primitives."
+      }
+    },
+    {
+      "name": "Juratyrant",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauroidea",
+        "genus": "Juratyrant",
+        "species": "Juratyrant langhami"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "United Kingdom", "fr": "Royaume-Uni" },
+      "description": {
+        "en": "Juratyrant was an early tyrannosauroid from the Jurassic of England. It predates the giant tyrannosaurs of the Late Cretaceous.",
+        "fr": "Juratyrant était un tyrannosauroïde primitif du Jurassique d'Angleterre. Il précède les gigantesques tyrannosaures du Crétacé supérieur."
+      }
+    },
+    {
+      "name": "Jinfengopteryx",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Troodontidae",
+        "genus": "Jinfengopteryx",
+        "species": "Jinfengopteryx elegans"
+      },
+      "length_m": 0.7,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Jinfengopteryx was a small feathered theropod from China. It is classified as a troodontid and represents an important step in feather evolution.",
+        "fr": "Jinfengopteryx était un petit théropode à plumes découvert en Chine. Classé parmi les troodontidés, il représente une étape importante dans l'évolution des plumes."
+      }
     }
   ]
 }
