@@ -3815,6 +3815,741 @@
         "en": "Jinfengopteryx was a small feathered theropod from China. It is classified as a troodontid and represents an important step in feather evolution.",
         "fr": "Jinfengopteryx était un petit théropode à plumes découvert en Chine. Classé parmi les troodontidés, il représente une étape importante dans l'évolution des plumes."
       }
+    },
+    {
+      "name": "Khaan",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Omnivorous", "fr": "Omnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Oviraptoridae",
+        "genus": "Khaan",
+        "species": "Khaan mckennai"
+      },
+      "length_m": 1.8,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Khaan was a small oviraptorid theropod from Mongolia. It likely had a beak and may have fed on plants, small animals, and possibly eggs.",
+        "fr": "Khaan était un petit théropode oviraptoridé découvert en Mongolie. Il possédait probablement un bec et se nourrissait de plantes, de petits animaux et peut-être d'œufs."
+      }
+    },
+    {
+      "name": "Kentrosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Stegosauridae",
+        "genus": "Kentrosaurus",
+        "species": "Kentrosaurus aethiopicus"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "Tanzania", "fr": "Tanzanie" },
+      "description": {
+        "en": "Kentrosaurus was a stegosaur with a combination of plates and long spikes along its back and tail. It likely relied on its spikes for defense.",
+        "fr": "Kentrosaurus était un stégosaure doté d'une combinaison de plaques et de longues pointes le long du dos et de la queue. Il utilisait probablement ses pointes pour se défendre."
+      }
+    },
+    {
+      "name": "Kosmoceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Kosmoceratops",
+        "species": "Kosmoceratops richardsoni"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Kosmoceratops was a horned dinosaur known for its highly ornamented frill with numerous horns and projections. It lived in North America during the Late Cretaceous.",
+        "fr": "Kosmoceratops était un dinosaure à cornes connu pour sa collerette très ornée comportant de nombreuses cornes et projections. Il vivait en Amérique du Nord au Crétacé supérieur."
+      }
+    },
+    {
+      "name": "Kritosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Kritosaurus",
+        "species": "Kritosaurus navajovius"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Kritosaurus was a duck-billed dinosaur with a distinctive arched nasal region. It likely lived in herds and fed on a wide variety of plants.",
+        "fr": "Kritosaurus était un dinosaure à bec de canard avec une région nasale arquée distinctive. Il vivait probablement en troupeaux et se nourrissait d'une grande variété de plantes."
+      }
+    },
+    {
+      "name": "Koreanosaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Koreanosaurus",
+        "species": "Koreanosaurus boseongensis"
+      },
+      "length_m": 2.5,
+      "discovered_in": { "en": "South Korea", "fr": "Corée du Sud" },
+      "description": {
+        "en": "Koreanosaurus was a small herbivorous ornithopod from South Korea. It was likely fast and lightly built, helping it avoid predators.",
+        "fr": "Koreanosaurus était un petit ornithopode herbivore découvert en Corée du Sud. Il était probablement rapide et léger, ce qui l'aidait à échapper aux prédateurs."
+      }
+    },
+    {
+      "name": "Lambeosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Lambeosaurus",
+        "species": "Lambeosaurus lambei, Lambeosaurus magnicristatus"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "Canada, USA", "fr": "Canada, États-Unis" },
+      "description": {
+        "en": "Lambeosaurus was a crested duck-billed dinosaur known for its hollow cranial crest. The crest may have been used for sound production or display.",
+        "fr": "Lambeosaurus était un dinosaure à bec de canard doté d'une crête creuse sur le crâne. Cette crête servait probablement à produire des sons ou à l'affichage."
+      }
+    },
+    {
+      "name": "Lesothosaurus",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Lesothosauridae",
+        "genus": "Lesothosaurus",
+        "species": "Lesothosaurus diagnosticus"
+      },
+      "length_m": 1,
+      "discovered_in": { "en": "Lesotho, South Africa", "fr": "Lesotho, Afrique du Sud" },
+      "description": {
+        "en": "Lesothosaurus was a small early ornithischian dinosaur. It was lightly built and likely fast, feeding on low vegetation.",
+        "fr": "Lesothosaurus était un petit dinosaure ornithischien primitif. Il était léger et probablement rapide, se nourrissant de végétation basse."
+      }
+    },
+    {
+      "name": "Liliensternus",
+      "period": { "en": "Late Triassic", "fr": "Trias supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Coelophysoidea",
+        "genus": "Liliensternus",
+        "species": "Liliensternus liliensterni"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "Germany", "fr": "Allemagne" },
+      "description": {
+        "en": "Liliensternus was an early carnivorous theropod from the Late Triassic. It was one of the larger predators of its time in Europe.",
+        "fr": "Liliensternus était un théropode carnivore primitif du Trias supérieur. Il faisait partie des plus grands prédateurs de son époque en Europe."
+      }
+    },
+    {
+      "name": "Lourinhanosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Allosauroidea",
+        "genus": "Lourinhanosaurus",
+        "species": "Lourinhanosaurus antunesi"
+      },
+      "length_m": 8,
+      "discovered_in": { "en": "Portugal", "fr": "Portugal" },
+      "description": {
+        "en": "Lourinhanosaurus was a carnivorous theropod from Portugal. Fossil evidence suggests it may have exhibited nesting behavior.",
+        "fr": "Lourinhanosaurus était un théropode carnivore découvert au Portugal. Des fossiles suggèrent qu'il pouvait avoir adopté un comportement de nidification."
+      }
+    },
+    {
+      "name": "Lufengosaurus",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Massospondylidae",
+        "genus": "Lufengosaurus",
+        "species": "Lufengosaurus huenei"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Lufengosaurus was an early sauropodomorph from China. It represents an important stage in the evolution toward the giant long-necked sauropods.",
+        "fr": "Lufengosaurus était un sauropodomorphe primitif découvert en Chine. Il représente une étape importante dans l'évolution vers les gigantesques sauropodes au long cou."
+      }
+    },
+    {
+      "name": "Leptoceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Leptoceratopsidae",
+        "genus": "Leptoceratops",
+        "species": "Leptoceratops gracilis"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Canada, USA", "fr": "Canada, États-Unis" },
+      "description": {
+        "en": "Leptoceratops was a small horned dinosaur related to Triceratops but lacking large facial horns. It had a strong beak for cutting vegetation.",
+        "fr": "Leptoceratops était un petit dinosaure à collerette apparenté à Triceratops mais sans grandes cornes faciales. Il possédait un bec robuste pour couper la végétation."
+      }
+    },
+    {
+      "name": "Liaoceratops",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Psittacosauridae",
+        "genus": "Liaoceratops",
+        "species": "Liaoceratops yanzigouensis"
+      },
+      "length_m": 1,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Liaoceratops was an early ceratopsian dinosaur from China. It represents one of the early stages in the evolution of horned dinosaurs.",
+        "fr": "Liaoceratops était un cératopsien primitif découvert en Chine. Il représente une étape précoce dans l'évolution des dinosaures à cornes."
+      }
+    },
+    {
+      "name": "Linhenykus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Alvarezsauridae",
+        "genus": "Linhenykus",
+        "species": "Linhenykus monodactylus"
+      },
+      "length_m": 1,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Linhenykus was a small alvarezsaurid theropod notable for having only one functional finger on each hand. It may have specialized in feeding on insects.",
+        "fr": "Linhenykus était un petit théropode alvarezsauridé remarquable pour ne posséder qu'un seul doigt fonctionnel par main. Il était peut-être spécialisé dans la consommation d'insectes."
+      }
+    },
+    {
+      "name": "Lythronax",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauridae",
+        "genus": "Lythronax",
+        "species": "Lythronax argestes"
+      },
+      "length_m": 8,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Lythronax was an early tyrannosaurid predator from North America. Its name means 'king of gore' and it was a powerful carnivore.",
+        "fr": "Lythronax était un tyrannosauridé primitif d'Amérique du Nord. Son nom signifie 'roi du carnage' et c'était un puissant carnivore."
+      }
+    },
+    {
+      "name": "Lanzhousaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Iguanodontia",
+        "genus": "Lanzhousaurus",
+        "species": "Lanzhousaurus magnidens"
+      },
+      "length_m": 10,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Lanzhousaurus was a large iguanodontian dinosaur notable for its unusually large teeth. It lived during the Early Cretaceous in Asia.",
+        "fr": "Lanzhousaurus était un grand iguanodontien remarquable pour ses dents exceptionnellement grandes. Il vivait en Asie au Crétacé inférieur."
+      }
+    },
+    {
+      "name": "Lusotitan",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Brachiosauridae",
+        "genus": "Lusotitan",
+        "species": "Lusotitan atalaiensis"
+      },
+      "length_m": 25,
+      "discovered_in": { "en": "Portugal", "fr": "Portugal" },
+      "description": {
+        "en": "Lusotitan was a massive brachiosaurid sauropod from Portugal. It was one of the largest dinosaurs known from Europe.",
+        "fr": "Lusotitan était un immense sauropode brachiosauridé découvert au Portugal. Il est l'un des plus grands dinosaures connus en Europe."
+      }
+    },
+    {
+      "name": "Lourinhasaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Diplodocidae",
+        "genus": "Lourinhasaurus",
+        "species": "Lourinhasaurus alenquerensis"
+      },
+      "length_m": 17,
+      "discovered_in": { "en": "Portugal", "fr": "Portugal" },
+      "description": {
+        "en": "Lourinhasaurus was a diplodocid sauropod from Portugal. It had a long neck and tail and fed on high and low vegetation.",
+        "fr": "Lourinhasaurus était un sauropode diplodocidé du Portugal. Il possédait un long cou et une longue queue et se nourrissait de végétation variée."
+      }
+    },
+    {
+      "name": "Lajasvenator",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Allosauroidea",
+        "genus": "Lajasvenator",
+        "species": "Lajasvenator ascheriae"
+      },
+      "length_m": 4.5,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Lajasvenator was a medium-sized carnivorous theropod from South America. It was an early member of the allosauroid lineage.",
+        "fr": "Lajasvenator était un théropode carnivore de taille moyenne d'Amérique du Sud. Il faisait partie des premiers représentants de la lignée des allosauroïdes."
+      }
+    },
+    {
+      "name": "Latenivenatrix",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Troodontidae",
+        "genus": "Latenivenatrix",
+        "species": "Latenivenatrix mcmasterae"
+      },
+      "length_m": 3.5,
+      "discovered_in": { "en": "Canada", "fr": "Canada" },
+      "description": {
+        "en": "Latenivenatrix was a large troodontid theropod known for its relatively long legs and likely high intelligence compared to many other dinosaurs.",
+        "fr": "Latenivenatrix était un grand troodontidé caractérisé par de longues pattes et probablement un niveau d'intelligence relativement élevé comparé à de nombreux autres dinosaures."
+      }
+    },
+    {
+      "name": "Leaellynasaura",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Leaellynasaura",
+        "species": "Leaellynasaura amicagraphica"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Australia", "fr": "Australie" },
+      "description": {
+        "en": "Leaellynasaura was a small herbivorous dinosaur from Australia. It lived in polar regions and may have had adaptations for low-light conditions.",
+        "fr": "Leaellynasaura était un petit dinosaure herbivore d'Australie. Il vivait dans des régions polaires et pouvait présenter des adaptations aux faibles conditions de luminosité."
+      }
+    },
+    {
+      "name": "Maiasaura",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Maiasaura",
+        "species": "Maiasaura peeblesorum"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Maiasaura was a duck-billed dinosaur famous for evidence of parental care. Fossils of nests, eggs and juveniles show that it likely cared for its young.",
+        "fr": "Maiasaura était un dinosaure à bec de canard célèbre pour les preuves de soins parentaux. Des fossiles de nids, d'œufs et de jeunes individus montrent qu'il s'occupait probablement de sa progéniture."
+      }
+    },
+    {
+      "name": "Mamenchisaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Mamenchisauridae",
+        "genus": "Mamenchisaurus",
+        "species": "Mamenchisaurus hochuanensis"
+      },
+      "length_m": 22,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Mamenchisaurus was a sauropod known for its extremely long neck, which could make up nearly half of its total body length.",
+        "fr": "Mamenchisaurus était un sauropode célèbre pour son cou extrêmement long, représentant presque la moitié de sa longueur totale."
+      }
+    },
+    {
+      "name": "Mapusaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Carcharodontosauridae",
+        "genus": "Mapusaurus",
+        "species": "Mapusaurus roseae"
+      },
+      "length_m": 12,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Mapusaurus was a giant carnivorous theropod closely related to Giganotosaurus. Fossils found together suggest it may have lived or hunted in groups.",
+        "fr": "Mapusaurus était un gigantesque théropode carnivore proche de Giganotosaurus. Des fossiles retrouvés ensemble suggèrent qu'il pouvait vivre ou chasser en groupe."
+      }
+    },
+    {
+      "name": "Megalosaurus",
+      "period": { "en": "Mid Jurassic", "fr": "Jurassique moyen" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Megalosauridae",
+        "genus": "Megalosaurus",
+        "species": "Megalosaurus bucklandii"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "United Kingdom", "fr": "Royaume-Uni" },
+      "description": {
+        "en": "Megalosaurus was the first dinosaur to be formally described in 1824. It was a large carnivorous theropod from the Jurassic of England.",
+        "fr": "Megalosaurus est le premier dinosaure officiellement décrit en 1824. C'était un grand théropode carnivore du Jurassique d'Angleterre."
+      }
+    },
+    {
+      "name": "Monolophosaurus",
+      "period": { "en": "Mid Jurassic", "fr": "Jurassique moyen" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Allosauroidea",
+        "genus": "Monolophosaurus",
+        "species": "Monolophosaurus jiangi"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Monolophosaurus was a medium-sized theropod known for the single crest running along the top of its skull.",
+        "fr": "Monolophosaurus était un théropode de taille moyenne connu pour la crête unique qui parcourait le sommet de son crâne."
+      }
+    },
+    {
+      "name": "Majungasaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Majungasaurus",
+        "species": "Majungasaurus crenatissimus"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "Madagascar", "fr": "Madagascar" },
+      "description": {
+        "en": "Majungasaurus was a carnivorous abelisaurid dinosaur from Madagascar. Fossil evidence suggests it may have engaged in cannibalism.",
+        "fr": "Majungasaurus était un dinosaure abélisauridé carnivore découvert à Madagascar. Des preuves fossiles suggèrent qu'il pouvait pratiquer le cannibalisme."
+      }
+    },
+    {
+      "name": "Massospondylus",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Massospondylidae",
+        "genus": "Massospondylus",
+        "species": "Massospondylus carinatus"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "South Africa", "fr": "Afrique du Sud" },
+      "description": {
+        "en": "Massospondylus was an early sauropodomorph that lived in the Early Jurassic. Fossils show evidence of nesting behavior.",
+        "fr": "Massospondylus était un sauropodomorphe primitif du Jurassique inférieur. Des fossiles indiquent un possible comportement de nidification."
+      }
+    },
+    {
+      "name": "Metriacanthosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Metriacanthosauridae",
+        "genus": "Metriacanthosaurus",
+        "species": "Metriacanthosaurus parkeri"
+      },
+      "length_m": 8,
+      "discovered_in": { "en": "United Kingdom", "fr": "Royaume-Uni" },
+      "description": {
+        "en": "Metriacanthosaurus was a carnivorous theropod from the Jurassic of England. Its name refers to the moderately tall spines on its vertebrae.",
+        "fr": "Metriacanthosaurus était un théropode carnivore du Jurassique d'Angleterre. Son nom fait référence aux épines vertébrales de hauteur modérée."
+      }
+    },
+    {
+      "name": "Microraptor",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Microraptor",
+        "species": "Microraptor gui"
+      },
+      "length_m": 0.8,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Microraptor was a small feathered dromaeosaur with wings on both its arms and legs. It likely glided between trees during the Early Cretaceous.",
+        "fr": "Microraptor était un petit dromaeosaure à plumes possédant des ailes sur les bras et les pattes. Il planait probablement entre les arbres au Crétacé inférieur."
+      }
+    },
+    {
+      "name": "Minmi",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Ankylosauria",
+        "genus": "Minmi",
+        "species": "Minmi paravertebra"
+      },
+      "length_m": 3,
+      "discovered_in": { "en": "Australia", "fr": "Australie" },
+      "description": {
+        "en": "Minmi was a small armored dinosaur from Australia. It had bony plates embedded in its skin for protection.",
+        "fr": "Minmi était un petit dinosaure cuirassé d'Australie. Il possédait des plaques osseuses intégrées dans la peau pour se protéger."
+      }
+    },
+    {
+      "name": "Mussaurus",
+      "period": { "en": "Late Triassic", "fr": "Trias supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Massospondylidae",
+        "genus": "Mussaurus",
+        "species": "Mussaurus patagonicus"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Mussaurus was an early sauropodomorph from Argentina. Its name means 'mouse lizard' because the first discovered specimens were juveniles and very small.",
+        "fr": "Mussaurus était un sauropodomorphe primitif d'Argentine. Son nom signifie 'lézard souris' car les premiers spécimens découverts étaient des juvéniles très petits."
+      }
+    },
+    {
+      "name": "Muttaburrasaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Iguanodontia",
+        "genus": "Muttaburrasaurus",
+        "species": "Muttaburrasaurus langdoni"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "Australia", "fr": "Australie" },
+      "description": {
+        "en": "Muttaburrasaurus was a large Australian ornithopod with a distinctive nasal crest. It may have used the crest for sound production or display.",
+        "fr": "Muttaburrasaurus était un grand ornithopode australien doté d'une crête nasale distinctive. Il pouvait utiliser cette crête pour produire des sons ou pour l'affichage."
+      }
+    },
+    {
+      "name": "Masiakasaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Noasauridae",
+        "genus": "Masiakasaurus",
+        "species": "Masiakasaurus knopfleri"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Madagascar", "fr": "Madagascar" },
+      "description": {
+        "en": "Masiakasaurus was a small theropod notable for its forward-projecting teeth, which may have been adapted for catching fish or small prey.",
+        "fr": "Masiakasaurus était un petit théropode remarquable pour ses dents dirigées vers l'avant, peut-être adaptées à la capture de poissons ou de petites proies."
+      }
+    },
+    {
+      "name": "Moros",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauroidea",
+        "genus": "Moros",
+        "species": "Moros intrepidus"
+      },
+      "length_m": 1.5,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Moros was a small early tyrannosauroid from North America. It represents an early stage in the evolution of the later giant tyrannosaurs.",
+        "fr": "Moros était un petit tyrannosauroïde primitif d'Amérique du Nord. Il représente une étape précoce dans l'évolution des gigantesques tyrannosaures ultérieurs."
+      }
+    },
+    {
+      "name": "Mojoceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Mojoceratops",
+        "species": "Mojoceratops perifania"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Canada", "fr": "Canada" },
+      "description": {
+        "en": "Mojoceratops was a horned dinosaur closely related to Chasmosaurus. It had a distinctive heart-shaped frill.",
+        "fr": "Mojoceratops était un dinosaure à cornes proche de Chasmosaurus. Il possédait une collerette distinctive en forme de cœur."
+      }
     }
   ]
 }
