@@ -5201,6 +5201,996 @@
         "en": "Panoplosaurus was a heavily armored nodosaurid dinosaur covered with bony plates and spikes. It lacked a tail club but relied on strong body armor for protection.",
         "fr": "Panoplosaurus était un dinosaure nodosauridé fortement cuirassé, couvert de plaques et de pointes osseuses. Il ne possédait pas de massue caudale mais comptait sur son armure pour se défendre."
       }
+    },
+    {
+      "name": "Qianzhousaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauridae",
+        "genus": "Qianzhousaurus",
+        "species": "Qianzhousaurus sinensis"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Qianzhousaurus was a long-snouted tyrannosaurid often nicknamed 'Pinocchio rex'. Its slender skull suggests it may have hunted different prey than Tyrannosaurus.",
+        "fr": "Qianzhousaurus était un tyrannosauridé au museau allongé, surnommé 'Pinocchio rex'. Son crâne élancé suggère qu'il chassait des proies différentes de celles de Tyrannosaurus."
+      }
+    },
+    {
+      "name": "Qantassaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Qantassaurus",
+        "species": "Qantassaurus intrepidus"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Australia", "fr": "Australie" },
+      "description": {
+        "en": "Qantassaurus was a small herbivorous dinosaur from polar regions of Australia. It likely had adaptations to survive long periods of darkness.",
+        "fr": "Qantassaurus était un petit dinosaure herbivore vivant dans les régions polaires de l'Australie. Il possédait probablement des adaptations pour survivre à de longues périodes d'obscurité."
+      }
+    },
+    {
+      "name": "Qianxisaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Ankylosauria",
+        "genus": "Qianxisaurus",
+        "species": "Qianxisaurus chajiangensis"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Qianxisaurus was an armored dinosaur from China. It had protective bony plates embedded in its skin.",
+        "fr": "Qianxisaurus était un dinosaure cuirassé découvert en Chine. Il possédait des plaques osseuses protectrices intégrées dans la peau."
+      }
+    },
+    {
+      "name": "Rajasaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Rajasaurus",
+        "species": "Rajasaurus narmadensis"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "India", "fr": "Inde" },
+      "description": {
+        "en": "Rajasaurus was a large abelisaurid theropod from India. It had a distinctive horn on its head and was likely a top predator in its ecosystem.",
+        "fr": "Rajasaurus était un grand théropode abélisauridé d'Inde. Il possédait une corne distinctive sur le crâne et faisait probablement partie des principaux prédateurs de son environnement."
+      }
+    },
+    {
+      "name": "Rugops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Rugops",
+        "species": "Rugops primus"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Niger", "fr": "Niger" },
+      "description": {
+        "en": "Rugops was a carnivorous theropod known from a partial skull. It belonged to the abelisaurid family and lived in Africa.",
+        "fr": "Rugops était un théropode carnivore connu principalement grâce à un crâne partiel. Il appartenait à la famille des abélisauridés et vivait en Afrique."
+      }
+    },
+    {
+      "name": "Rhabdodon",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Rhabdodontidae",
+        "genus": "Rhabdodon",
+        "species": "Rhabdodon priscus"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "France, Spain", "fr": "France, Espagne" },
+      "description": {
+        "en": "Rhabdodon was a medium-sized herbivorous dinosaur from Europe. It was part of a group of ornithopods adapted to island environments.",
+        "fr": "Rhabdodon était un dinosaure herbivore de taille moyenne d'Europe. Il appartenait à un groupe d'ornithopodes adaptés aux environnements insulaires."
+      }
+    },
+    {
+      "name": "Rinchenia",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Omnivorous", "fr": "Omnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Oviraptoridae",
+        "genus": "Rinchenia",
+        "species": "Rinchenia mongoliensis"
+      },
+      "length_m": 2.5,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Rinchenia was an oviraptorid theropod from Mongolia. It likely had a crest and a beak adapted for an omnivorous diet.",
+        "fr": "Rinchenia était un théropode oviraptoridé découvert en Mongolie. Il possédait probablement une crête et un bec adapté à un régime omnivore."
+      }
+    },
+    {
+      "name": "Riojasaurus",
+      "period": { "en": "Late Triassic", "fr": "Trias supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Plateosauridae",
+        "genus": "Riojasaurus",
+        "species": "Riojasaurus incertus"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Riojasaurus was an early sauropodomorph from South America. It was among the largest herbivores of the Late Triassic.",
+        "fr": "Riojasaurus était un sauropodomorphe primitif d'Amérique du Sud. Il faisait partie des plus grands herbivores du Trias supérieur."
+      }
+    },
+    {
+      "name": "Raptorex",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauroidea",
+        "genus": "Raptorex",
+        "species": "Raptorex kriegsteini"
+      },
+      "length_m": 3,
+      "discovered_in": { "en": "China (provenance debated)", "fr": "Chine (provenance débattue)" },
+      "description": {
+        "en": "Raptorex was described as a small early tyrannosauroid showing many features of later giant tyrannosaurs. However, its exact classification and age have been debated.",
+        "fr": "Raptorex a été décrit comme un petit tyrannosauroïde précoce présentant de nombreuses caractéristiques des tyrannosaures géants ultérieurs. Toutefois, sa classification et son âge exacts font débat."
+      }
+    },
+    {
+      "name": "Rubeosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Rubeosaurus",
+        "species": "Rubeosaurus ovatus"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Rubeosaurus was a horned dinosaur known for the distinctive spikes projecting from its frill. It lived in North America during the Late Cretaceous.",
+        "fr": "Rubeosaurus était un dinosaure à cornes caractérisé par des pointes distinctives sur sa collerette. Il vivait en Amérique du Nord au Crétacé supérieur."
+      }
+    },
+    {
+      "name": "Rebbachisaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Rebbachisauridae",
+        "genus": "Rebbachisaurus",
+        "species": "Rebbachisaurus garasbae"
+      },
+      "length_m": 14,
+      "discovered_in": { "en": "Morocco", "fr": "Maroc" },
+      "description": {
+        "en": "Rebbachisaurus was a long-necked sauropod from North Africa. It gave its name to the family Rebbachisauridae.",
+        "fr": "Rebbachisaurus était un sauropode au long cou d'Afrique du Nord. Il a donné son nom à la famille des Rebbachisauridae."
+      }
+    },
+    {
+      "name": "Rahonavis",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae (debated)",
+        "genus": "Rahonavis",
+        "species": "Rahonavis ostromi"
+      },
+      "length_m": 0.7,
+      "discovered_in": { "en": "Madagascar", "fr": "Madagascar" },
+      "description": {
+        "en": "Rahonavis was a small feathered theropod that shows features of both birds and non-avian dinosaurs. Its exact placement within theropods remains debated.",
+        "fr": "Rahonavis était un petit théropode à plumes présentant des caractéristiques à la fois aviennes et non aviennes. Sa position exacte au sein des théropodes reste discutée."
+      }
+    },
+    {
+      "name": "Spinosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": {
+        "en": "Carnivorous (primarily piscivorous)",
+        "fr": "Carnivore (principalement piscivore)"
+      },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Spinosauridae",
+        "genus": "Spinosaurus",
+        "species": "Spinosaurus aegyptiacus"
+      },
+      "length_m": 15,
+      "discovered_in": { "en": "Egypt, Morocco", "fr": "Égypte, Maroc" },
+      "description": {
+        "en": "Spinosaurus was one of the largest known carnivorous dinosaurs. It had a long crocodile-like snout and a large sail on its back.",
+        "fr": "Spinosaurus était l'un des plus grands dinosaures carnivores connus. Il possédait un long museau semblable à celui d'un crocodile et une grande voile dorsale."
+      }
+    },
+    {
+      "name": "Stegosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Stegosauridae",
+        "genus": "Stegosaurus",
+        "species": "Stegosaurus stenops"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Stegosaurus was an armored dinosaur with large plates along its back and spikes on its tail. The tail spikes may have been used for defense.",
+        "fr": "Stegosaurus était un dinosaure cuirassé doté de grandes plaques le long du dos et de pointes sur la queue. Ces pointes servaient probablement à la défense."
+      }
+    },
+    {
+      "name": "Suchomimus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Spinosauridae",
+        "genus": "Suchomimus",
+        "species": "Suchomimus tenerensis"
+      },
+      "length_m": 11,
+      "discovered_in": { "en": "Niger", "fr": "Niger" },
+      "description": {
+        "en": "Suchomimus was a spinosaurid theropod with a long snout adapted for catching fish. It lived in North Africa during the Early Cretaceous.",
+        "fr": "Suchomimus était un théropode spinosauridé au long museau adapté à la capture de poissons. Il vivait en Afrique du Nord au Crétacé inférieur."
+      }
+    },
+    {
+      "name": "Sinraptor",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Metriacanthosauridae",
+        "genus": "Sinraptor",
+        "species": "Sinraptor dongi"
+      },
+      "length_m": 7.5,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Sinraptor was a large carnivorous theropod from China. Despite its name, it is not closely related to true raptors like Velociraptor.",
+        "fr": "Sinraptor était un grand théropode carnivore découvert en Chine. Malgré son nom, il n'est pas étroitement apparenté aux véritables raptors comme Velociraptor."
+      }
+    },
+    {
+      "name": "Saurophaganax",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Allosauridae",
+        "genus": "Saurophaganax",
+        "species": "Saurophaganax maximus"
+      },
+      "length_m": 11,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Saurophaganax was a massive carnivorous theropod from North America. It was among the largest predators of the Late Jurassic.",
+        "fr": "Saurophaganax était un immense théropode carnivore d'Amérique du Nord. Il faisait partie des plus grands prédateurs du Jurassique supérieur."
+      }
+    },
+    {
+      "name": "Styracosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Styracosaurus",
+        "species": "Styracosaurus albertensis"
+      },
+      "length_m": 5.5,
+      "discovered_in": { "en": "Canada", "fr": "Canada" },
+      "description": {
+        "en": "Styracosaurus was a horned dinosaur known for its impressive frill adorned with long spikes. It likely used its horns for defense and display.",
+        "fr": "Styracosaurus était un dinosaure à cornes célèbre pour sa collerette ornée de longues pointes. Il utilisait probablement ses cornes pour la défense et l'affichage."
+      }
+    },
+    {
+      "name": "Shunosaurus",
+      "period": { "en": "Mid Jurassic", "fr": "Jurassique moyen" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Mamenchisauridae",
+        "genus": "Shunosaurus",
+        "species": "Shunosaurus lii"
+      },
+      "length_m": 10,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Shunosaurus was a relatively small sauropod notable for having a bony club at the end of its tail, a rare feature among sauropods.",
+        "fr": "Shunosaurus était un sauropode relativement petit remarquable pour la massue osseuse à l'extrémité de sa queue, une caractéristique rare chez les sauropodes."
+      }
+    },
+    {
+      "name": "Scutellosaurus",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Scutellosauridae",
+        "genus": "Scutellosaurus",
+        "species": "Scutellosaurus lawleri"
+      },
+      "length_m": 1.2,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Scutellosaurus was an early armored dinosaur covered with small bony plates along its back. It represents one of the earliest thyreophorans.",
+        "fr": "Scutellosaurus était un dinosaure cuirassé primitif couvert de petites plaques osseuses le long du dos. Il représente l'un des premiers thyreophores."
+      }
+    },
+    {
+      "name": "Saltasaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauridae",
+        "genus": "Saltasaurus",
+        "species": "Saltasaurus loricatus"
+      },
+      "length_m": 12,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Saltasaurus was a titanosaur notable for having bony armor plates embedded in its skin. It was smaller than many other titanosaurs.",
+        "fr": "Saltasaurus était un titanosaure remarquable pour ses plaques osseuses intégrées dans la peau. Il était plus petit que de nombreux autres titanosaures."
+      }
+    },
+    {
+      "name": "Sinosauropteryx",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Compsognathidae",
+        "genus": "Sinosauropteryx",
+        "species": "Sinosauropteryx prima"
+      },
+      "length_m": 1,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Sinosauropteryx was one of the first non-avian dinosaurs found with clear evidence of filamentous feathers. It was a small carnivorous theropod.",
+        "fr": "Sinosauropteryx est l'un des premiers dinosaures non aviens découverts avec des preuves claires de plumes filamenteuses. C'était un petit théropode carnivore."
+      }
+    },
+    {
+      "name": "Saurornitholestes",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Saurornitholestes",
+        "species": "Saurornitholestes langstoni"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Canada, USA", "fr": "Canada, États-Unis" },
+      "description": {
+        "en": "Saurornitholestes was a small, agile dromaeosaurid closely related to Velociraptor. It likely hunted small animals and may have been feathered.",
+        "fr": "Saurornitholestes était un petit dromaeosauridé agile proche de Velociraptor. Il chassait probablement de petites proies et possédait des plumes."
+      }
+    },
+    {
+      "name": "Struthiomimus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Omnivorous", "fr": "Omnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Ornithomimidae",
+        "genus": "Struthiomimus",
+        "species": "Struthiomimus altus"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "Canada, USA", "fr": "Canada, États-Unis" },
+      "description": {
+        "en": "Struthiomimus was an ostrich-like dinosaur with long legs and a toothless beak. It was likely fast and omnivorous.",
+        "fr": "Struthiomimus était un dinosaure ressemblant à une autruche, doté de longues pattes et d'un bec sans dents. Il était probablement rapide et omnivore."
+      }
+    },
+    {
+      "name": "Segnosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Therizinosauridae",
+        "genus": "Segnosaurus",
+        "species": "Segnosaurus galbinensis"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Segnosaurus was a therizinosaur with long claws and leaf-shaped teeth adapted for a plant-based diet.",
+        "fr": "Segnosaurus était un thérizinosaure doté de longues griffes et de dents en forme de feuilles adaptées à un régime végétal."
+      }
+    },
+    {
+      "name": "Shantungosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Shantungosaurus",
+        "species": "Shantungosaurus giganteus"
+      },
+      "length_m": 15,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Shantungosaurus was one of the largest known hadrosaurid dinosaurs. It was a massive herbivore from Late Cretaceous Asia.",
+        "fr": "Shantungosaurus était l'un des plus grands hadrosauridés connus. C'était un herbivore massif du Crétacé supérieur d'Asie."
+      }
+    },
+    {
+      "name": "Tyrannosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauridae",
+        "genus": "Tyrannosaurus",
+        "species": "Tyrannosaurus rex"
+      },
+      "length_m": 12.5,
+      "discovered_in": { "en": "USA, Canada", "fr": "États-Unis, Canada" },
+      "description": {
+        "en": "Tyrannosaurus rex was one of the largest and most powerful terrestrial predators ever discovered. It had a massive skull and extremely strong bite force.",
+        "fr": "Tyrannosaurus rex était l'un des plus grands et des plus puissants prédateurs terrestres jamais découverts. Il possédait un crâne massif et une force de morsure exceptionnelle."
+      }
+    },
+    {
+      "name": "Triceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsidae",
+        "genus": "Triceratops",
+        "species": "Triceratops horridus"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "USA, Canada", "fr": "États-Unis, Canada" },
+      "description": {
+        "en": "Triceratops was a large horned dinosaur with three facial horns and a broad frill. It was one of the last surviving non-avian dinosaurs.",
+        "fr": "Triceratops était un grand dinosaure à cornes doté de trois cornes faciales et d'une large collerette. Il faisait partie des derniers dinosaures non aviens."
+      }
+    },
+    {
+      "name": "Therizinosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Therizinosauridae",
+        "genus": "Therizinosaurus",
+        "species": "Therizinosaurus cheloniformis"
+      },
+      "length_m": 10,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Therizinosaurus was a large theropod known for its enormous curved claws. Despite being a theropod, it was primarily herbivorous.",
+        "fr": "Therizinosaurus était un grand théropode célèbre pour ses énormes griffes recourbées. Bien qu'appartenant aux théropodes, il était principalement herbivore."
+      }
+    },
+    {
+      "name": "Torvosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Megalosauridae",
+        "genus": "Torvosaurus",
+        "species": "Torvosaurus tanneri"
+      },
+      "length_m": 10,
+      "discovered_in": { "en": "USA, Portugal", "fr": "États-Unis, Portugal" },
+      "description": {
+        "en": "Torvosaurus was a massive Jurassic predator with long, powerful jaws. It was among the largest carnivores of its time.",
+        "fr": "Torvosaurus était un immense prédateur jurassique doté de longues mâchoires puissantes. Il faisait partie des plus grands carnivores de son époque."
+      }
+    },
+    {
+      "name": "Tenontosaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Iguanodontia",
+        "genus": "Tenontosaurus",
+        "species": "Tenontosaurus tilletti"
+      },
+      "length_m": 8,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Tenontosaurus was a large herbivorous ornithopod commonly found in association with Deinonychus fossils.",
+        "fr": "Tenontosaurus était un grand ornithopode herbivore souvent découvert aux côtés de fossiles de Deinonychus."
+      }
+    },
+    {
+      "name": "Tarbosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauridae",
+        "genus": "Tarbosaurus",
+        "species": "Tarbosaurus bataar"
+      },
+      "length_m": 11,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Tarbosaurus was a large tyrannosaurid closely related to Tyrannosaurus. It was one of the top predators of Late Cretaceous Asia.",
+        "fr": "Tarbosaurus était un grand tyrannosauridé étroitement apparenté à Tyrannosaurus. Il faisait partie des principaux prédateurs de l'Asie du Crétacé supérieur."
+      }
+    },
+    {
+      "name": "Troodon",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Troodontidae",
+        "genus": "Troodon",
+        "species": "Troodon formosus"
+      },
+      "length_m": 2.5,
+      "discovered_in": { "en": "USA, Canada", "fr": "États-Unis, Canada" },
+      "description": {
+        "en": "Troodon was a small theropod traditionally considered one of the most intelligent non-avian dinosaurs due to its relatively large braincase. Its taxonomy has been debated in recent years.",
+        "fr": "Troodon était un petit théropode longtemps considéré comme l'un des dinosaures non aviens les plus intelligents en raison de sa boîte crânienne relativement grande. Sa validité taxonomique a été débattue ces dernières années."
+      }
+    },
+    {
+      "name": "Tsintaosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauridae",
+        "genus": "Tsintaosaurus",
+        "species": "Tsintaosaurus spinorhinus"
+      },
+      "length_m": 8,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Tsintaosaurus was a duck-billed dinosaur notable for the unusual spike-like crest on its head.",
+        "fr": "Tsintaosaurus était un dinosaure à bec de canard remarquable pour la crête en forme de pointe située sur son crâne."
+      }
+    },
+    {
+      "name": "Talarurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Ankylosauridae",
+        "genus": "Talarurus",
+        "species": "Talarurus plicatospineus"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Talarurus was an armored ankylosaurid dinosaur with a tail club used for defense.",
+        "fr": "Talarurus était un dinosaure ankylosauridé cuirassé doté d'une massue caudale utilisée pour la défense."
+      }
+    },
+    {
+      "name": "Thescelosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Thescelosauridae",
+        "genus": "Thescelosaurus",
+        "species": "Thescelosaurus neglectus"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "USA, Canada", "fr": "États-Unis, Canada" },
+      "description": {
+        "en": "Thescelosaurus was a small to medium-sized herbivorous dinosaur. A famous specimen once sparked debate about possible preserved soft tissues.",
+        "fr": "Thescelosaurus était un dinosaure herbivore de petite à moyenne taille. Un spécimen célèbre a suscité un débat concernant la possible préservation de tissus mous."
+      }
+    },
+    {
+      "name": "Tuojiangosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Stegosauridae",
+        "genus": "Tuojiangosaurus",
+        "species": "Tuojiangosaurus multispinus"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Tuojiangosaurus was a stegosaur from China with large plates and tail spikes. It was smaller than Stegosaurus but similarly armored.",
+        "fr": "Tuojiangosaurus était un stégosaure chinois doté de grandes plaques et de pointes caudales. Il était plus petit que Stegosaurus mais tout aussi bien protégé."
+      }
+    },
+    {
+      "name": "Theropelta",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Nodosauridae",
+        "genus": "Theropelta",
+        "species": "Theropelta zabaikalica"
+      },
+      "length_m": 5,
+      "discovered_in": { "en": "Russia", "fr": "Russie" },
+      "description": {
+        "en": "Theropelta was an armored nodosaurid dinosaur discovered in Russia. It relied on heavy body armor for protection against predators.",
+        "fr": "Theropelta était un dinosaure nodosauridé cuirassé découvert en Russie. Il comptait sur une armure corporelle massive pour se défendre contre les prédateurs."
+      }
+    },
+    {
+      "name": "Titanosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauria",
+        "genus": "Titanosaurus",
+        "species": "Titanosaurus indicus"
+      },
+      "length_m": 15,
+      "discovered_in": { "en": "India", "fr": "Inde" },
+      "description": {
+        "en": "Titanosaurus was one of the early named titanosaurs. Its classification has been revised multiple times, and it historically gave its name to the Titanosauria group.",
+        "fr": "Titanosaurus est l'un des premiers titanosaures décrits. Sa classification a été révisée à plusieurs reprises et il a historiquement donné son nom au groupe des Titanosauria."
+      }
+    },
+    {
+      "name": "Tethyshadros",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hadrosauroidea",
+        "genus": "Tethyshadros",
+        "species": "Tethyshadros insularis"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "Italy", "fr": "Italie" },
+      "description": {
+        "en": "Tethyshadros was a relatively small hadrosauroid dinosaur that lived on islands in what is now Europe. It is an example of insular dwarfism.",
+        "fr": "Tethyshadros était un hadrosauroïde relativement petit vivant sur des îles de l'actuelle Europe. Il constitue un exemple de nanisme insulaire."
+      }
+    },
+    {
+      "name": "Utahraptor",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Utahraptor",
+        "species": "Utahraptor ostrommaysorum"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "USA (Utah)", "fr": "États-Unis (Utah)" },
+      "description": {
+        "en": "Utahraptor was the largest known dromaeosaurid. It had a massive sickle-shaped claw on each foot and was likely a powerful predator of the Early Cretaceous.",
+        "fr": "Utahraptor était le plus grand dromaeosauridé connu. Il possédait une énorme griffe en forme de faucille sur chaque pied et était probablement un redoutable prédateur du Crétacé inférieur."
+      }
+    },
+    {
+      "name": "Udanoceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Leptoceratopsidae",
+        "genus": "Udanoceratops",
+        "species": "Udanoceratops tschizhovi"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Udanoceratops was a relatively large member of the leptoceratopsids. Unlike larger ceratopsians, it lacked prominent facial horns.",
+        "fr": "Udanoceratops était un membre relativement grand des leptoceratopsidés. Contrairement aux grands cératopsiens, il ne possédait pas de cornes faciales proéminentes."
+      }
+    },
+    {
+      "name": "Unenlagia",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Unenlagia",
+        "species": "Unenlagia comahuensis"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Unenlagia was a small dromaeosaurid from South America showing bird-like features in its shoulder anatomy. It provides important insight into the evolution of flight.",
+        "fr": "Unenlagia était un petit dromaeosauridé d'Amérique du Sud présentant des caractéristiques aviennes au niveau de l'épaule. Il apporte des informations importantes sur l'évolution du vol."
+      }
+    },
+    {
+      "name": "Velociraptor",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Velociraptor",
+        "species": "Velociraptor mongoliensis"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Velociraptor was a small, agile dromaeosaurid with a sickle-shaped claw on each foot. Fossil evidence shows it had feathers.",
+        "fr": "Velociraptor était un petit dromaeosauridé agile doté d'une griffe en forme de faucille sur chaque pied. Des fossiles indiquent qu'il possédait des plumes."
+      }
+    },
+    {
+      "name": "Vulcanodon",
+      "period": { "en": "Early Jurassic", "fr": "Jurassique inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Sauropoda",
+        "genus": "Vulcanodon",
+        "species": "Vulcanodon karibaensis"
+      },
+      "length_m": 6.5,
+      "discovered_in": { "en": "Zimbabwe", "fr": "Zimbabwe" },
+      "description": {
+        "en": "Vulcanodon was an early sauropod from Africa. It represents an important transitional stage in the evolution of true sauropods.",
+        "fr": "Vulcanodon était un sauropode primitif d'Afrique. Il représente une étape importante dans l'évolution des véritables sauropodes."
+      }
+    },
+    {
+      "name": "Valdosaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Valdosaurus",
+        "species": "Valdosaurus canaliculatus"
+      },
+      "length_m": 4,
+      "discovered_in": { "en": "United Kingdom", "fr": "Royaume-Uni" },
+      "description": {
+        "en": "Valdosaurus was a small to medium-sized herbivorous ornithopod from Europe. It was likely fast and lightly built.",
+        "fr": "Valdosaurus était un ornithopode herbivore de taille petite à moyenne découvert en Europe. Il était probablement rapide et léger."
+      }
+    },
+    {
+      "name": "Variraptor",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Dromaeosauridae",
+        "genus": "Variraptor",
+        "species": "Variraptor mechinorum"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "France", "fr": "France" },
+      "description": {
+        "en": "Variraptor was a European dromaeosaurid known from fragmentary remains. It lived in what are now parts of France during the Late Cretaceous.",
+        "fr": "Variraptor était un dromaeosauridé européen connu à partir de restes fragmentaires. Il vivait dans l'actuelle France au Crétacé supérieur."
+      }
     }
   ]
 }
