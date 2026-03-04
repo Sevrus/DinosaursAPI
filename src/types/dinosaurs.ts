@@ -15,6 +15,6 @@ export type Dinosaur = {
         species: string;
     };
     length_m: number;
-    discovered_in: string;
+    discovered_in: DinoText;
     description: DinoText;
 }
