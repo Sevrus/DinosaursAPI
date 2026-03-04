@@ -6191,6 +6191,321 @@
         "en": "Variraptor was a European dromaeosaurid known from fragmentary remains. It lived in what are now parts of France during the Late Cretaceous.",
         "fr": "Variraptor était un dromaeosauridé européen connu à partir de restes fragmentaires. Il vivait dans l'actuelle France au Crétacé supérieur."
       }
+    },
+    {
+      "name": "Wuerhosaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Thyreophora",
+        "family": "Stegosauridae",
+        "genus": "Wuerhosaurus",
+        "species": "Wuerhosaurus homheni"
+      },
+      "length_m": 7,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Wuerhosaurus was a stegosaur from the Early Cretaceous. It had relatively flat plates compared to other stegosaurs.",
+        "fr": "Wuerhosaurus était un stégosaure du Crétacé inférieur. Ses plaques dorsales étaient relativement plates comparées à celles d'autres stégosaures."
+      }
+    },
+    {
+      "name": "Wintonotitan",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Sauropodomorpha",
+        "family": "Titanosauriformes",
+        "genus": "Wintonotitan",
+        "species": "Wintonotitan wattsi"
+      },
+      "length_m": 15,
+      "discovered_in": { "en": "Australia", "fr": "Australie" },
+      "description": {
+        "en": "Wintonotitan was a large sauropod discovered in Australia. It was one of the largest dinosaurs known from the Australian continent.",
+        "fr": "Wintonotitan était un grand sauropode découvert en Australie. Il fait partie des plus grands dinosaures connus sur ce continent."
+      }
+    },
+    {
+      "name": "Wiehenvenator",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Megalosauridae",
+        "genus": "Wiehenvenator",
+        "species": "Wiehenvenator albati"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "Germany", "fr": "Allemagne" },
+      "description": {
+        "en": "Wiehenvenator was a large carnivorous theropod from Germany. Its name means 'hunter from the Wiehen Hills'.",
+        "fr": "Wiehenvenator était un grand théropode carnivore découvert en Allemagne. Son nom signifie 'chasseur des collines de Wiehen'."
+      }
+    },
+    {
+      "name": "Xiaosaurus",
+      "period": { "en": "Mid Jurassic", "fr": "Jurassique moyen" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Xiaosaurus",
+        "species": "Xiaosaurus dashanpensis"
+      },
+      "length_m": 1,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Xiaosaurus was a small herbivorous ornithopod dinosaur from China. It was lightly built and likely fast-moving.",
+        "fr": "Xiaosaurus était un petit ornithopode herbivore découvert en Chine. Il était léger et probablement rapide."
+      }
+    },
+    {
+      "name": "Xenotarsosaurus",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Abelisauridae",
+        "genus": "Xenotarsosaurus",
+        "species": "Xenotarsosaurus bonapartei"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "Argentina", "fr": "Argentine" },
+      "description": {
+        "en": "Xenotarsosaurus was a carnivorous abelisaurid dinosaur from South America. It is known mainly from hind limb fossils.",
+        "fr": "Xenotarsosaurus était un dinosaure abélisauridé carnivore d'Amérique du Sud. Il est principalement connu grâce à des fossiles de membres postérieurs."
+      }
+    },
+    {
+      "name": "Xixianykus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Alvarezsauridae",
+        "genus": "Xixianykus",
+        "species": "Xixianykus zhangi"
+      },
+      "length_m": 0.5,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Xixianykus was a tiny alvarezsaurid dinosaur with very specialized forelimbs likely adapted for digging or insect feeding.",
+        "fr": "Xixianykus était un minuscule dinosaure alvarezsauridé doté de membres antérieurs spécialisés probablement adaptés pour creuser ou capturer des insectes."
+      }
+    },
+    {
+      "name": "Xuanhanosaurus",
+      "period": { "en": "Mid Jurassic", "fr": "Jurassique moyen" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Megalosauroidea",
+        "genus": "Xuanhanosaurus",
+        "species": "Xuanhanosaurus qilixiaensis"
+      },
+      "length_m": 6,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Xuanhanosaurus was a carnivorous theropod discovered in China. It represents one of the earlier members of the megalosauroid lineage.",
+        "fr": "Xuanhanosaurus était un théropode carnivore découvert en Chine. Il représente l'un des premiers membres de la lignée des mégalosauroïdes."
+      }
+    },
+    {
+      "name": "Yutyrannus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Tyrannosauroidea",
+        "genus": "Yutyrannus",
+        "species": "Yutyrannus huali"
+      },
+      "length_m": 9,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Yutyrannus was a large tyrannosauroid covered in filamentous feathers. It provides strong evidence that large theropods could also be feathered.",
+        "fr": "Yutyrannus était un grand tyrannosauroïde couvert de plumes filamenteuses. Il constitue une preuve importante que de grands théropodes pouvaient également être plumés."
+      }
+    },
+    {
+      "name": "Yangchuanosaurus",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Metriacanthosauridae",
+        "genus": "Yangchuanosaurus",
+        "species": "Yangchuanosaurus shangyouensis"
+      },
+      "length_m": 10,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Yangchuanosaurus was a large carnivorous theropod from the Late Jurassic of China. It filled a role similar to Allosaurus in Asia.",
+        "fr": "Yangchuanosaurus était un grand théropode carnivore du Jurassique supérieur de Chine. Il occupait une niche écologique similaire à celle d'Allosaurus en Asie."
+      }
+    },
+    {
+      "name": "Yinlong",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsia",
+        "genus": "Yinlong",
+        "species": "Yinlong downsi"
+      },
+      "length_m": 1.5,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Yinlong was one of the earliest known ceratopsians. It lacked the large horns and frill of later ceratopsids.",
+        "fr": "Yinlong était l'un des premiers cératopsiens connus. Il ne possédait pas encore les grandes cornes et la large collerette des cératopsidés plus tardifs."
+      }
+    },
+    {
+      "name": "Yamaceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsia",
+        "genus": "Yamaceratops",
+        "species": "Yamaceratops dorngobiensis"
+      },
+      "length_m": 2,
+      "discovered_in": { "en": "Mongolia", "fr": "Mongolie" },
+      "description": {
+        "en": "Yamaceratops was a primitive ceratopsian from Mongolia. It represents an intermediate stage in ceratopsian evolution.",
+        "fr": "Yamaceratops était un cératopsien primitif découvert en Mongolie. Il représente une étape intermédiaire dans l'évolution des cératopsiens."
+      }
+    },
+    {
+      "name": "Zuniceratops",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Marginocephalia",
+        "family": "Ceratopsia",
+        "genus": "Zuniceratops",
+        "species": "Zuniceratops christopheri"
+      },
+      "length_m": 3,
+      "discovered_in": { "en": "USA (New Mexico)", "fr": "États-Unis (Nouveau-Mexique)" },
+      "description": {
+        "en": "Zuniceratops was an early horned dinosaur that represents an evolutionary stage before the appearance of the large ceratopsids like Triceratops.",
+        "fr": "Zuniceratops était un dinosaure à cornes primitif représentant une étape évolutive avant l'apparition des grands cératopsidés comme Triceratops."
+      }
+    },
+    {
+      "name": "Zephyrosaurus",
+      "period": { "en": "Early Cretaceous", "fr": "Crétacé inférieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Hypsilophodontidae",
+        "genus": "Zephyrosaurus",
+        "species": "Zephyrosaurus schaffi"
+      },
+      "length_m": 1.8,
+      "discovered_in": { "en": "USA", "fr": "États-Unis" },
+      "description": {
+        "en": "Zephyrosaurus was a small, fast herbivorous ornithopod. It likely lived in herds and relied on speed to escape predators.",
+        "fr": "Zephyrosaurus était un petit ornithopode herbivore rapide. Il vivait probablement en groupe et comptait sur sa vitesse pour fuir les prédateurs."
+      }
+    },
+    {
+      "name": "Zuolong",
+      "period": { "en": "Late Jurassic", "fr": "Jurassique supérieur" },
+      "diet": { "en": "Carnivorous", "fr": "Carnivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Saurischia",
+        "suborder": "Theropoda",
+        "family": "Coelurosauria",
+        "genus": "Zuolong",
+        "species": "Zuolong salleei"
+      },
+      "length_m": 3,
+      "discovered_in": { "en": "China", "fr": "Chine" },
+      "description": {
+        "en": "Zuolong was a small carnivorous theropod from the Late Jurassic. It is considered an early member of the coelurosaur lineage.",
+        "fr": "Zuolong était un petit théropode carnivore du Jurassique supérieur. Il est considéré comme un membre précoce de la lignée des coelurosaures."
+      }
+    },
+    {
+      "name": "Zalmoxes",
+      "period": { "en": "Late Cretaceous", "fr": "Crétacé supérieur" },
+      "diet": { "en": "Herbivorous", "fr": "Herbivore" },
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Ornithischia",
+        "suborder": "Ornithopoda",
+        "family": "Rhabdodontidae",
+        "genus": "Zalmoxes",
+        "species": "Zalmoxes robustus"
+      },
+      "length_m": 3,
+      "discovered_in": { "en": "Romania", "fr": "Roumanie" },
+      "description": {
+        "en": "Zalmoxes was a small herbivorous dinosaur that lived on the Cretaceous islands of Europe. It is a classic example of island dwarfism.",
+        "fr": "Zalmoxes était un petit dinosaure herbivore vivant sur les îles européennes du Crétacé. Il constitue un exemple classique de nanisme insulaire."
+      }
     }
   ]
 }
