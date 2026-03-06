@@ -13,7 +13,17 @@ function normalize(s: string) {
 
 export function getAllDinosaurs(): Dinosaur[] {
     const raw = fs.readFileSync(dataPath, "utf-8");
-    return JSON.parse(raw) as Dinosaur[];
+    const parsed = JSON.parse(raw);
+
+    if (Array.isArray(parsed)) {
+        return parsed as Dinosaur[];
+    }
+
+    if (Array.isArray(parsed.dinosaurs)) {
+        return parsed.dinosaurs as Dinosaur[];
+    }
+
+    throw new Error("Invalid dinosaurs data format");
 }
 
 export function searchDinosaurs(query: {
