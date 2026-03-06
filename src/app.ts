@@ -1,4 +1,3 @@
-// src/app.ts
 import express from "express";
 import cors from "cors";
 import { dinosaursRouter } from "./routes/dinosaurs.routes";
